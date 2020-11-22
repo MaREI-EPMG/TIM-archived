@@ -1,0 +1,1632 @@
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/19 0:05:35
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (25)
+00:00:06		B-Y: IE_DELC
+00:00:29		B-Y: IE_ELC
+00:00:15		B-Y: IE_SUP
+00:00:07		B-Y Transformation...
+00:00:19		SR: BioRefineries
+00:00:12		SR Transformation: BioRefineries
+UnKnown		SR: ELC-Win_UCC
+UnKnown		SR Transformation: ELC-Win_UCC
+UnKnown		SR: ELC_V00p01
+UnKnown		SR Transformation: ELC_V00p01
+00:00:10		SR: Hydrogen
+00:00:04		SR Transformation: Hydrogen
+00:00:02		Transfer Data: [B-Y] + [SR]
+00:00:10		Reg_Scen: ELC_AF_12TS
+00:00:11		Reg_Scen: ELC_CCS
+00:00:08		Reg_Scen: ELC_Dem_12TS
+00:00:05		Reg_Scen: ELC_RE_Share
+00:00:18		Reg_Scen: ELC_REN
+UnKnown		Reg_Scen: ELC_RES95
+UnKnown		Reg_Scen: ELC_RES99
+UnKnown		Reg_Scen: ELC_SNSP
+00:00:18		Reg_Scen: ELC_UnitCommitment
+00:00:00		VEDA To TIMES I...
+00:00:14		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/19 0:22:06
+---------------------------------------------------------------------------------
+
+Total time taken 00:04:46
+
+Exp. Time	Act. Time	Task (25)
+00:00:06	00:00:06	B-Y: IE_DELC
+00:00:29	00:00:33	B-Y: IE_ELC
+00:00:15	00:00:19	B-Y: IE_SUP
+00:00:07	00:00:12	B-Y Transformation...
+00:00:19	00:00:12	SR: BioRefineries
+00:00:12	00:00:08	SR Transformation: BioRefineries
+UnKnown	00:00:33	SR: ELC-Win_UCC
+UnKnown	00:00:05	SR Transformation: ELC-Win_UCC
+UnKnown	00:00:20	SR: ELC_V00p01
+UnKnown	00:00:05	SR Transformation: ELC_V00p01
+00:00:10	00:00:14	SR: Hydrogen
+00:00:04	00:00:07	SR Transformation: Hydrogen
+00:00:02	00:00:03	Transfer Data: [B-Y] + [SR]
+00:00:10	00:00:13	Reg_Scen: ELC_AF_12TS
+00:00:11	00:00:08	Reg_Scen: ELC_CCS
+00:00:08	00:00:08	Reg_Scen: ELC_Dem_12TS
+00:00:05	00:00:06	Reg_Scen: ELC_RE_Share
+00:00:18	00:00:13	Reg_Scen: ELC_REN
+UnKnown	00:00:08	Reg_Scen: ELC_RES95
+UnKnown	00:00:07	Reg_Scen: ELC_RES99
+UnKnown	00:00:07	Reg_Scen: ELC_SNSP
+00:00:18	00:00:08	Reg_Scen: ELC_UnitCommitment
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:14	00:00:19	Updating SysSettings...
+00:00:04	00:00:12	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 1:10:02
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (17)
+00:00:33		B-Y: IE_ELC
+00:00:19		B-Y: IE_SUP
+00:00:12		B-Y Transformation...
+00:00:20		SR: ELC_V00p01
+00:00:05		SR Transformation: ELC_V00p01
+00:00:03		Transfer Data: [B-Y] + [SR]
+00:00:13		Reg_Scen: ELC_AF_12TS
+00:00:08		Reg_Scen: ELC_CCS
+00:00:06		Reg_Scen: ELC_RE_Share
+00:00:13		Reg_Scen: ELC_REN
+00:00:08		Reg_Scen: ELC_RES95
+00:00:07		Reg_Scen: ELC_RES99
+00:00:07		Reg_Scen: ELC_SNSP
+00:00:08		Reg_Scen: ELC_UnitCommitment
+00:00:00		VEDA To TIMES I...
+00:00:19		Updating SysSettings...
+00:00:12		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 1:14:26
+---------------------------------------------------------------------------------
+
+Total time taken 00:04:12
+
+Exp. Time	Act. Time	Task (17)
+00:00:33	00:00:31	B-Y: IE_ELC
+00:00:19	00:00:17	B-Y: IE_SUP
+00:00:12	00:00:19	B-Y Transformation...
+00:00:20	00:00:36	SR: ELC_V00p01
+00:00:05	00:00:07	SR Transformation: ELC_V00p01
+00:00:03	00:00:03	Transfer Data: [B-Y] + [SR]
+00:00:13	00:00:16	Reg_Scen: ELC_AF_12TS
+00:00:08	00:00:09	Reg_Scen: ELC_CCS
+00:00:06	00:00:12	Reg_Scen: ELC_RE_Share
+00:00:13	00:00:42	Reg_Scen: ELC_REN
+00:00:08	00:00:12	Reg_Scen: ELC_RES95
+00:00:07	00:00:05	Reg_Scen: ELC_RES99
+00:00:07	00:00:05	Reg_Scen: ELC_SNSP
+00:00:08	00:00:05	Reg_Scen: ELC_UnitCommitment
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:19	00:00:14	Updating SysSettings...
+00:00:12	00:00:19	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 15:10:30
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (24)
+UnKnown		B-Y: IE_ELC
+UnKnown		B-Y: IE_SUP
+00:00:05		B-Y Transformation...
+UnKnown		SR: BioRefineries
+UnKnown		SR Transformation: BioRefineries
+UnKnown		SR: ELC_DEM
+UnKnown		SR Transformation: ELC_DEM
+UnKnown		SR: ELC_V00p01
+UnKnown		SR Transformation: ELC_V00p01
+UnKnown		SR: Hydrogen
+UnKnown		SR Transformation: Hydrogen
+00:00:06		Transfer Data: [B-Y] + [SR]
+UnKnown		Reg_Scen: ELC_AF_12TS
+UnKnown		Reg_Scen: ELC_CCS
+UnKnown		Reg_Scen: ELC_Dem_12TS
+UnKnown		Reg_Scen: ELC_RE_Share
+UnKnown		Reg_Scen: ELC_REN
+UnKnown		Reg_Scen: ELC_RES95
+UnKnown		Reg_Scen: ELC_RES99
+UnKnown		Reg_Scen: ELC_SNSP
+UnKnown		Reg_Scen: ELC_UnitCommitment
+00:00:01		VEDA To TIMES I...
+00:00:08		Updating SysSettings...
+00:05:19		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 15:14:20
+---------------------------------------------------------------------------------
+
+Total time taken 00:03:41
+
+Exp. Time	Act. Time	Task (24)
+UnKnown	00:00:26	B-Y: IE_ELC
+UnKnown	00:00:12	B-Y: IE_SUP
+00:00:05	00:00:08	B-Y Transformation...
+UnKnown	00:00:07	SR: BioRefineries
+UnKnown	00:00:07	SR Transformation: BioRefineries
+UnKnown	00:00:15	SR: ELC_DEM
+UnKnown	00:00:04	SR Transformation: ELC_DEM
+UnKnown	00:00:25	SR: ELC_V00p01
+UnKnown	00:00:04	SR Transformation: ELC_V00p01
+UnKnown	00:00:13	SR: Hydrogen
+UnKnown	00:00:07	SR Transformation: Hydrogen
+00:00:06	00:00:02	Transfer Data: [B-Y] + [SR]
+UnKnown	00:00:11	Reg_Scen: ELC_AF_12TS
+UnKnown	00:00:07	Reg_Scen: ELC_CCS
+UnKnown	00:00:08	Reg_Scen: ELC_Dem_12TS
+UnKnown	00:00:06	Reg_Scen: ELC_RE_Share
+UnKnown	00:00:18	Reg_Scen: ELC_REN
+UnKnown	00:00:06	Reg_Scen: ELC_RES95
+UnKnown	00:00:07	Reg_Scen: ELC_RES99
+UnKnown	00:00:04	Reg_Scen: ELC_SNSP
+UnKnown	00:00:05	Reg_Scen: ELC_UnitCommitment
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:08	00:00:13	Updating SysSettings...
+00:05:19	00:00:06	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 15:37:03
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (8)
+00:00:26		B-Y: IE_ELC
+00:00:08		B-Y Transformation...
+00:00:25		SR: ELC_V00p01
+00:00:04		SR Transformation: ELC_V00p01
+00:00:02		Transfer Data: [B-Y] + [SR]
+00:00:00		VEDA To TIMES I...
+00:00:13		Updating SysSettings...
+00:00:06		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 15:38:20
+---------------------------------------------------------------------------------
+
+Total time taken 00:01:11
+
+Exp. Time	Act. Time	Task (8)
+00:00:26	00:00:25	B-Y: IE_ELC
+00:00:08	00:00:08	B-Y Transformation...
+00:00:25	00:00:17	SR: ELC_V00p01
+00:00:04	00:00:03	SR Transformation: ELC_V00p01
+00:00:02	00:00:02	Transfer Data: [B-Y] + [SR]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:13	00:00:12	Updating SysSettings...
+00:00:06	00:00:04	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 16:23:14
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (10)
+00:00:25		B-Y: IE_ELC
+00:00:08		B-Y Transformation...
+00:00:15		SR: ELC_DEM
+00:00:04		SR Transformation: ELC_DEM
+00:00:17		SR: ELC_V00p01
+00:00:03		SR Transformation: ELC_V00p01
+00:00:02		Transfer Data: [B-Y] + [SR]
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 16:25:12
+---------------------------------------------------------------------------------
+
+Total time taken 00:01:49
+
+Exp. Time	Act. Time	Task (10)
+00:00:25	00:00:34	B-Y: IE_ELC
+00:00:08	00:00:08	B-Y Transformation...
+00:00:15	00:00:10	SR: ELC_DEM
+00:00:04	00:00:03	SR Transformation: ELC_DEM
+00:00:17	00:00:24	SR: ELC_V00p01
+00:00:03	00:00:05	SR Transformation: ELC_V00p01
+00:00:02	00:00:02	Transfer Data: [B-Y] + [SR]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:17	Updating SysSettings...
+00:00:04	00:00:06	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 16:52:52
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (8)
+00:00:34		B-Y: IE_ELC
+00:00:08		B-Y Transformation...
+00:00:24		SR: ELC_V00p01
+00:00:05		SR Transformation: ELC_V00p01
+00:00:02		Transfer Data: [B-Y] + [SR]
+00:00:00		VEDA To TIMES I...
+00:00:17		Updating SysSettings...
+00:00:06		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 16:54:53
+---------------------------------------------------------------------------------
+
+Total time taken 00:01:52
+
+Exp. Time	Act. Time	Task (8)
+00:00:34	00:00:37	B-Y: IE_ELC
+00:00:08	00:00:12	B-Y Transformation...
+00:00:24	00:00:29	SR: ELC_V00p01
+00:00:05	00:00:05	SR Transformation: ELC_V00p01
+00:00:02	00:00:04	Transfer Data: [B-Y] + [SR]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:17	00:00:19	Updating SysSettings...
+00:00:06	00:00:06	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 17:13:58
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (8)
+00:00:37		B-Y: IE_ELC
+00:00:12		B-Y Transformation...
+00:00:29		SR: ELC_V00p01
+00:00:05		SR Transformation: ELC_V00p01
+00:00:04		Transfer Data: [B-Y] + [SR]
+00:00:00		VEDA To TIMES I...
+00:00:19		Updating SysSettings...
+00:00:06		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 17:15:43
+---------------------------------------------------------------------------------
+
+Total time taken 00:01:40
+
+Exp. Time	Act. Time	Task (8)
+00:00:37	00:00:33	B-Y: IE_ELC
+00:00:12	00:00:10	B-Y Transformation...
+00:00:29	00:00:27	SR: ELC_V00p01
+00:00:05	00:00:05	SR Transformation: ELC_V00p01
+00:00:04	00:00:04	Transfer Data: [B-Y] + [SR]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:19	00:00:16	Updating SysSettings...
+00:00:06	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 17:20:00
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (24)
+UnKnown		B-Y: IE_ELC
+UnKnown		B-Y: IE_SUP
+00:00:05		B-Y Transformation...
+UnKnown		SR: ELC_DEM
+UnKnown		SR Transformation: ELC_DEM
+UnKnown		SR: ELC_V00p01
+UnKnown		SR Transformation: ELC_V00p01
+UnKnown		SR: SUP_BioRefineries
+UnKnown		SR Transformation: SUP_BioRefineries
+UnKnown		SR: SUP_Hydrogen
+UnKnown		SR Transformation: SUP_Hydrogen
+00:00:06		Transfer Data: [B-Y] + [SR]
+UnKnown		Reg_Scen: ELC_AF_12TS
+UnKnown		Reg_Scen: ELC_CCS
+UnKnown		Reg_Scen: ELC_Dem_12TS
+UnKnown		Reg_Scen: ELC_RE_Share
+UnKnown		Reg_Scen: ELC_REN
+UnKnown		Reg_Scen: ELC_RES95
+UnKnown		Reg_Scen: ELC_RES99
+UnKnown		Reg_Scen: ELC_SNSP
+UnKnown		Reg_Scen: ELC_UnitCommitment
+00:00:01		VEDA To TIMES I...
+00:00:08		Updating SysSettings...
+00:05:19		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 17:24:17
+---------------------------------------------------------------------------------
+
+Total time taken 00:04:08
+
+Exp. Time	Act. Time	Task (24)
+UnKnown	00:00:32	B-Y: IE_ELC
+UnKnown	00:00:16	B-Y: IE_SUP
+00:00:05	00:00:10	B-Y Transformation...
+UnKnown	00:00:12	SR: ELC_DEM
+UnKnown	00:00:04	SR Transformation: ELC_DEM
+UnKnown	00:00:25	SR: ELC_V00p01
+UnKnown	00:00:04	SR Transformation: ELC_V00p01
+UnKnown	00:00:12	SR: SUP_BioRefineries
+UnKnown	00:00:04	SR Transformation: SUP_BioRefineries
+UnKnown	00:00:15	SR: SUP_Hydrogen
+UnKnown	00:00:04	SR Transformation: SUP_Hydrogen
+00:00:06	00:00:03	Transfer Data: [B-Y] + [SR]
+UnKnown	00:00:12	Reg_Scen: ELC_AF_12TS
+UnKnown	00:00:07	Reg_Scen: ELC_CCS
+UnKnown	00:00:08	Reg_Scen: ELC_Dem_12TS
+UnKnown	00:00:06	Reg_Scen: ELC_RE_Share
+UnKnown	00:00:17	Reg_Scen: ELC_REN
+UnKnown	00:00:07	Reg_Scen: ELC_RES95
+UnKnown	00:00:06	Reg_Scen: ELC_RES99
+UnKnown	00:00:07	Reg_Scen: ELC_SNSP
+UnKnown	00:00:07	Reg_Scen: ELC_UnitCommitment
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:08	00:00:20	Updating SysSettings...
+00:05:19	00:00:10	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 17:58:10
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (25)
+UnKnown		B-Y: IE_AGR
+UnKnown		B-Y: IE_ELC
+UnKnown		B-Y: IE_SUP
+00:00:05		B-Y Transformation...
+UnKnown		SR: ELC_DEM
+UnKnown		SR Transformation: ELC_DEM
+UnKnown		SR: ELC_V00p01
+UnKnown		SR Transformation: ELC_V00p01
+UnKnown		SR: SUP_BioRefineries
+UnKnown		SR Transformation: SUP_BioRefineries
+UnKnown		SR: SUP_Hydrogen
+UnKnown		SR Transformation: SUP_Hydrogen
+00:00:06		Transfer Data: [B-Y] + [SR]
+UnKnown		Reg_Scen: ELC_AF_12TS
+UnKnown		Reg_Scen: ELC_CCS
+UnKnown		Reg_Scen: ELC_Dem_12TS
+UnKnown		Reg_Scen: ELC_RE_Share
+UnKnown		Reg_Scen: ELC_REN
+UnKnown		Reg_Scen: ELC_RES95
+UnKnown		Reg_Scen: ELC_RES99
+UnKnown		Reg_Scen: ELC_SNSP
+UnKnown		Reg_Scen: ELC_UnitCommitment
+00:00:01		VEDA To TIMES I...
+00:00:08		Updating SysSettings...
+00:05:19		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/20 18:01:18
+---------------------------------------------------------------------------------
+
+Total time taken 00:03:01
+
+Exp. Time	Act. Time	Task (25)
+UnKnown	00:00:11	B-Y: IE_AGR
+UnKnown	00:00:25	B-Y: IE_ELC
+UnKnown	00:00:11	B-Y: IE_SUP
+00:00:05	00:00:07	B-Y Transformation...
+UnKnown	00:00:08	SR: ELC_DEM
+UnKnown	00:00:03	SR Transformation: ELC_DEM
+UnKnown	00:00:18	SR: ELC_V00p01
+UnKnown	00:00:03	SR Transformation: ELC_V00p01
+UnKnown	00:00:08	SR: SUP_BioRefineries
+UnKnown	00:00:03	SR Transformation: SUP_BioRefineries
+UnKnown	00:00:10	SR: SUP_Hydrogen
+UnKnown	00:00:04	SR Transformation: SUP_Hydrogen
+00:00:06	00:00:02	Transfer Data: [B-Y] + [SR]
+UnKnown	00:00:08	Reg_Scen: ELC_AF_12TS
+UnKnown	00:00:05	Reg_Scen: ELC_CCS
+UnKnown	00:00:05	Reg_Scen: ELC_Dem_12TS
+UnKnown	00:00:04	Reg_Scen: ELC_RE_Share
+UnKnown	00:00:11	Reg_Scen: ELC_REN
+UnKnown	00:00:04	Reg_Scen: ELC_RES95
+UnKnown	00:00:04	Reg_Scen: ELC_RES99
+UnKnown	00:00:04	Reg_Scen: ELC_SNSP
+UnKnown	00:00:04	Reg_Scen: ELC_UnitCommitment
+00:00:01	00:00:01	VEDA To TIMES I...
+00:00:08	00:00:12	Updating SysSettings...
+00:05:19	00:00:06	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 1:51:50
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (6)
+00:00:11		B-Y: IE_AGR
+00:00:07		B-Y Transformation...
+00:00:02		Transfer Data: [B-Y]
+00:00:01		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:06		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 1:52:46
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:49
+
+Exp. Time	Act. Time	Task (6)
+00:00:11	00:00:14	B-Y: IE_AGR
+00:00:07	00:00:10	B-Y Transformation...
+00:00:02	00:00:03	Transfer Data: [B-Y]
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:17	Updating SysSettings...
+00:00:06	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 1:56:06
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (6)
+00:00:14		B-Y: IE_AGR
+00:00:10		B-Y Transformation...
+00:00:03		Transfer Data: [B-Y]
+00:00:00		VEDA To TIMES I...
+00:00:17		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 1:56:47
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:35
+
+Exp. Time	Act. Time	Task (6)
+00:00:14	00:00:09	B-Y: IE_AGR
+00:00:10	00:00:07	B-Y Transformation...
+00:00:03	00:00:02	Transfer Data: [B-Y]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:17	00:00:13	Updating SysSettings...
+00:00:05	00:00:04	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 1:59:51
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (6)
+00:00:09		B-Y: IE_AGR
+00:00:07		B-Y Transformation...
+00:00:02		Transfer Data: [B-Y]
+00:00:00		VEDA To TIMES I...
+00:00:13		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:00:33
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:35
+
+Exp. Time	Act. Time	Task (6)
+00:00:09	00:00:09	B-Y: IE_AGR
+00:00:07	00:00:07	B-Y Transformation...
+00:00:02	00:00:02	Transfer Data: [B-Y]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:13	00:00:12	Updating SysSettings...
+00:00:04	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:07:18
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (26)
+UnKnown		B-Y: IE_AGR
+UnKnown		B-Y: IE_ELC
+UnKnown		B-Y: IE_SUP
+00:00:05		B-Y Transformation...
+UnKnown		SR: ELC_DEM
+UnKnown		SR Transformation: ELC_DEM
+UnKnown		SR: ELC_V00p01
+UnKnown		SR Transformation: ELC_V00p01
+UnKnown		SR: SUP_BioRefineries
+UnKnown		SR Transformation: SUP_BioRefineries
+UnKnown		SR: SUP_Hydrogen
+UnKnown		SR Transformation: SUP_Hydrogen
+00:00:06		Transfer Data: [B-Y] + [SR]
+UnKnown		Reg_Scen: DomBioPot_Baseline
+UnKnown		Reg_Scen: ELC_AF_12TS
+UnKnown		Reg_Scen: ELC_CCS
+UnKnown		Reg_Scen: ELC_Dem_12TS
+UnKnown		Reg_Scen: ELC_RE_Share
+UnKnown		Reg_Scen: ELC_REN
+UnKnown		Reg_Scen: ELC_RES95
+UnKnown		Reg_Scen: ELC_RES99
+UnKnown		Reg_Scen: ELC_SNSP
+UnKnown		Reg_Scen: ELC_UnitCommitment
+00:00:01		VEDA To TIMES I...
+00:00:08		Updating SysSettings...
+00:05:19		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:11:04
+---------------------------------------------------------------------------------
+
+Total time taken 00:03:37
+
+Exp. Time	Act. Time	Task (26)
+UnKnown	00:00:09	B-Y: IE_AGR
+UnKnown	00:00:25	B-Y: IE_ELC
+UnKnown	00:00:11	B-Y: IE_SUP
+00:00:05	00:00:07	B-Y Transformation...
+UnKnown	00:00:08	SR: ELC_DEM
+UnKnown	00:00:03	SR Transformation: ELC_DEM
+UnKnown	00:00:16	SR: ELC_V00p01
+UnKnown	00:00:03	SR Transformation: ELC_V00p01
+UnKnown	00:00:07	SR: SUP_BioRefineries
+UnKnown	00:00:03	SR Transformation: SUP_BioRefineries
+UnKnown	00:00:10	SR: SUP_Hydrogen
+UnKnown	00:00:03	SR Transformation: SUP_Hydrogen
+00:00:06	00:00:02	Transfer Data: [B-Y] + [SR]
+UnKnown	00:00:35	Reg_Scen: DomBioPot_Baseline
+UnKnown	00:00:08	Reg_Scen: ELC_AF_12TS
+UnKnown	00:00:06	Reg_Scen: ELC_CCS
+UnKnown	00:00:06	Reg_Scen: ELC_Dem_12TS
+UnKnown	00:00:04	Reg_Scen: ELC_RE_Share
+UnKnown	00:00:12	Reg_Scen: ELC_REN
+UnKnown	00:00:05	Reg_Scen: ELC_RES95
+UnKnown	00:00:05	Reg_Scen: ELC_RES99
+UnKnown	00:00:04	Reg_Scen: ELC_SNSP
+UnKnown	00:00:05	Reg_Scen: ELC_UnitCommitment
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:08	00:00:13	Updating SysSettings...
+00:05:19	00:00:07	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:19:58
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (8)
+00:00:09		B-Y: IE_AGR
+00:00:07		B-Y Transformation...
+00:00:16		SR: ELC_V00p01
+00:00:03		SR Transformation: ELC_V00p01
+00:00:02		Transfer Data: [B-Y] + [SR]
+00:00:00		VEDA To TIMES I...
+00:00:13		Updating SysSettings...
+00:00:07		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:21:03
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:59
+
+Exp. Time	Act. Time	Task (8)
+00:00:09	00:00:12	B-Y: IE_AGR
+00:00:07	00:00:07	B-Y Transformation...
+00:00:16	00:00:16	SR: ELC_V00p01
+00:00:03	00:00:03	SR Transformation: ELC_V00p01
+00:00:02	00:00:02	Transfer Data: [B-Y] + [SR]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:13	00:00:13	Updating SysSettings...
+00:00:07	00:00:06	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:22:54
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (7)
+00:00:12		B-Y: IE_AGR
+00:00:11		B-Y: IE_SUP
+00:00:07		B-Y Transformation...
+00:00:02		Transfer Data: [B-Y]
+00:00:00		VEDA To TIMES I...
+00:00:13		Updating SysSettings...
+00:00:06		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:23:48
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:49
+
+Exp. Time	Act. Time	Task (7)
+00:00:12	00:00:10	B-Y: IE_AGR
+00:00:11	00:00:14	B-Y: IE_SUP
+00:00:07	00:00:07	B-Y Transformation...
+00:00:02	00:00:02	Transfer Data: [B-Y]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:13	00:00:12	Updating SysSettings...
+00:00:06	00:00:04	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:32:17
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (6)
+00:00:14		B-Y: IE_SUP
+00:00:07		B-Y Transformation...
+00:00:02		Transfer Data: [B-Y]
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:33:02
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:37
+
+Exp. Time	Act. Time	Task (6)
+00:00:14	00:00:13	B-Y: IE_SUP
+00:00:07	00:00:07	B-Y Transformation...
+00:00:02	00:00:02	Transfer Data: [B-Y]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:11	Updating SysSettings...
+00:00:04	00:00:04	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:33:57
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (6)
+00:00:13		B-Y: IE_SUP
+00:00:07		B-Y Transformation...
+00:00:02		Transfer Data: [B-Y]
+00:00:00		VEDA To TIMES I...
+00:00:11		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 2:34:42
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:39
+
+Exp. Time	Act. Time	Task (6)
+00:00:13	00:00:13	B-Y: IE_SUP
+00:00:07	00:00:07	B-Y Transformation...
+00:00:02	00:00:02	Transfer Data: [B-Y]
+00:00:00	00:00:01	VEDA To TIMES I...
+00:00:11	00:00:11	Updating SysSettings...
+00:00:04	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 3:39:16
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:05		Reg_Scen: ELC_UnitCommitment
+00:00:01		VEDA To TIMES I...
+00:00:11		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 3:39:39
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:21
+
+Exp. Time	Act. Time	Task (4)
+00:00:05	00:00:06	Reg_Scen: ELC_UnitCommitment
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:11	00:00:11	Updating SysSettings...
+00:00:05	00:00:04	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 3:45:36
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:12		Reg_Scen: ELC_REN
+00:00:00		VEDA To TIMES I...
+00:00:11		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/21 3:46:06
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:28
+
+Exp. Time	Act. Time	Task (4)
+00:00:12	00:00:11	Reg_Scen: ELC_REN
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:11	00:00:12	Updating SysSettings...
+00:00:04	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:01:34
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (7)
+00:00:08		SR: ELC_DEM
+00:00:03		SR Transformation: ELC_DEM
+00:00:02		Transfer Data: [SR]
+00:00:08		Reg_Scen: ELC_AF_12TS
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:02:19
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:39
+
+Exp. Time	Act. Time	Task (7)
+00:00:08	00:00:09	SR: ELC_DEM
+00:00:03	00:00:03	SR Transformation: ELC_DEM
+00:00:02	00:00:02	Transfer Data: [SR]
+00:00:08	00:00:10	Reg_Scen: ELC_AF_12TS
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:11	Updating SysSettings...
+00:00:05	00:00:04	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:03:12
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+UnKnown		Reg_Scen: ELC_RNW
+00:00:00		VEDA To TIMES I...
+00:00:11		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:03:44
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:31
+
+Exp. Time	Act. Time	Task (4)
+UnKnown	00:00:14	Reg_Scen: ELC_RNW
+00:00:00	00:00:01	VEDA To TIMES I...
+00:00:11	00:00:12	Updating SysSettings...
+00:00:04	00:00:04	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:07:38
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:14		Reg_Scen: ELC_RNW
+00:00:01		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:08:10
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:30
+
+Exp. Time	Act. Time	Task (4)
+00:00:14	00:00:13	Reg_Scen: ELC_RNW
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:12	Updating SysSettings...
+00:00:04	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:08:56
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:13		Reg_Scen: ELC_RNW
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:09:29
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:31
+
+Exp. Time	Act. Time	Task (4)
+00:00:13	00:00:14	Reg_Scen: ELC_RNW
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:12	Updating SysSettings...
+00:00:05	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:11:27
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (7)
+00:00:10		B-Y: IE_AGR
+00:00:07		B-Y Transformation...
+00:00:02		Transfer Data: [B-Y]
+00:00:14		Reg_Scen: ELC_RNW
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:12:23
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:51
+
+Exp. Time	Act. Time	Task (7)
+00:00:10	00:00:10	B-Y: IE_AGR
+00:00:07	00:00:08	B-Y Transformation...
+00:00:02	00:00:02	Transfer Data: [B-Y]
+00:00:14	00:00:14	Reg_Scen: ELC_RNW
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:12	Updating SysSettings...
+00:00:05	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:20:31
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (5)
+00:00:05		Reg_Scen: ELC_RES95
+00:00:05		Reg_Scen: ELC_RES99
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:20:57
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:24
+
+Exp. Time	Act. Time	Task (5)
+00:00:05	00:00:03	Reg_Scen: ELC_RES95
+00:00:05	00:00:04	Reg_Scen: ELC_RES99
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:12	Updating SysSettings...
+00:00:05	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:43:28
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (7)
+00:00:09		SR: ELC_DEM
+00:00:03		SR Transformation: ELC_DEM
+00:00:02		Transfer Data: [SR]
+00:00:06		Reg_Scen: ELC_Dem_12TS
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:44:07
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:35
+
+Exp. Time	Act. Time	Task (7)
+00:00:09	00:00:08	SR: ELC_DEM
+00:00:03	00:00:03	SR Transformation: ELC_DEM
+00:00:02	00:00:02	Transfer Data: [SR]
+00:00:06	00:00:06	Reg_Scen: ELC_Dem_12TS
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:12	Updating SysSettings...
+00:00:05	00:00:04	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:49:21
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:06		Reg_Scen: ELC_Dem_12TS
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 2:49:44
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:22
+
+Exp. Time	Act. Time	Task (4)
+00:00:06	00:00:06	Reg_Scen: ELC_Dem_12TS
+00:00:00	00:00:01	VEDA To TIMES I...
+00:00:12	00:00:11	Updating SysSettings...
+00:00:04	00:00:04	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 17:09:56
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:04		Reg_Scen: ELC_RES99
+00:00:01		VEDA To TIMES I...
+00:00:11		Updating SysSettings...
+00:00:04		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 17:10:42
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:44
+
+Exp. Time	Act. Time	Task (4)
+00:00:04	00:00:08	Reg_Scen: ELC_RES99
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:11	00:00:27	Updating SysSettings...
+00:00:04	00:00:09	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 17:29:01
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (5)
+UnKnown		Reg_Scen: ELC_BIO_10
+UnKnown		Reg_Scen: ELC_ELC_NoCOA-2030
+00:00:00		VEDA To TIMES I...
+00:00:27		Updating SysSettings...
+00:00:09		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 17:29:54
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:51
+
+Exp. Time	Act. Time	Task (5)
+UnKnown	00:00:08	Reg_Scen: ELC_BIO_10
+UnKnown	00:00:08	Reg_Scen: ELC_ELC_NoCOA-2030
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:27	00:00:25	Updating SysSettings...
+00:00:09	00:00:10	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 18:48:49
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (6)
+00:00:16		SR: ELC_V00p01
+00:00:03		SR Transformation: ELC_V00p01
+00:00:02		Transfer Data: [SR]
+00:00:00		VEDA To TIMES I...
+00:00:25		Updating SysSettings...
+00:00:10		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 18:50:04
+---------------------------------------------------------------------------------
+
+Total time taken 00:01:12
+
+Exp. Time	Act. Time	Task (6)
+00:00:16	00:00:42	SR: ELC_V00p01
+00:00:03	00:00:05	SR Transformation: ELC_V00p01
+00:00:02	00:00:03	Transfer Data: [SR]
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:25	00:00:16	Updating SysSettings...
+00:00:10	00:00:06	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 19:47:05
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (6)
+00:00:42		SR: ELC_V00p01
+00:00:05		SR Transformation: ELC_V00p01
+00:00:03		Transfer Data: [SR]
+00:00:00		VEDA To TIMES I...
+00:00:16		Updating SysSettings...
+00:00:06		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 19:48:34
+---------------------------------------------------------------------------------
+
+Total time taken 00:01:24
+
+Exp. Time	Act. Time	Task (6)
+00:00:42	00:00:26	SR: ELC_V00p01
+00:00:05	00:00:06	SR Transformation: ELC_V00p01
+00:00:03	00:00:04	Transfer Data: [SR]
+00:00:00	00:00:01	VEDA To TIMES I...
+00:00:16	00:00:37	Updating SysSettings...
+00:00:06	00:00:10	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 19:57:21
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (6)
+00:00:26		SR: ELC_V00p01
+00:00:06		SR Transformation: ELC_V00p01
+00:00:04		Transfer Data: [SR]
+00:00:01		VEDA To TIMES I...
+00:00:37		Updating SysSettings...
+00:00:10		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 19:58:14
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:49
+
+Exp. Time	Act. Time	Task (6)
+00:00:26	00:00:23	SR: ELC_V00p01
+00:00:06	00:00:04	SR Transformation: ELC_V00p01
+00:00:04	00:00:02	Transfer Data: [SR]
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:37	00:00:15	Updating SysSettings...
+00:00:10	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 20:17:14
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:08		Reg_Scen: ELC_BIO_10
+00:00:00		VEDA To TIMES I...
+00:00:15		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 20:17:41
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:25
+
+Exp. Time	Act. Time	Task (4)
+00:00:08	00:00:05	Reg_Scen: ELC_BIO_10
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:15	00:00:14	Updating SysSettings...
+00:00:05	00:00:06	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 20:44:44
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:14		Reg_Scen: ELC_RNW
+00:00:00		VEDA To TIMES I...
+00:00:14		Updating SysSettings...
+00:00:06		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 20:45:17
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:31
+
+Exp. Time	Act. Time	Task (4)
+00:00:14	00:00:14	Reg_Scen: ELC_RNW
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:14	00:00:12	Updating SysSettings...
+00:00:06	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 20:52:36
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:05		Reg_Scen: ELC_BIO_10
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 20:52:59
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:21
+
+Exp. Time	Act. Time	Task (4)
+00:00:05	00:00:04	Reg_Scen: ELC_BIO_10
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:12	00:00:12	Updating SysSettings...
+00:00:05	00:00:05	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 21:00:13
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:08		Reg_Scen: ELC_ELC_NoCOA-2030
+00:00:00		VEDA To TIMES I...
+00:00:12		Updating SysSettings...
+00:00:05		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 21:00:50
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:35
+
+Exp. Time	Act. Time	Task (4)
+00:00:08	00:00:07	Reg_Scen: ELC_ELC_NoCOA-2030
+00:00:00	00:00:01	VEDA To TIMES I...
+00:00:12	00:00:21	Updating SysSettings...
+00:00:05	00:00:06	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 21:09:40
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (5)
+UnKnown		Reg_Scen: ELC_CO2_Target2050_CO2-80
+00:00:07		Reg_Scen: ELC_ELC_NoCOA-2030
+00:00:01		VEDA To TIMES I...
+00:00:21		Updating SysSettings...
+00:00:06		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/22 21:10:36
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:54
+
+Exp. Time	Act. Time	Task (5)
+UnKnown	00:00:11	Reg_Scen: ELC_CO2_Target2050_CO2-80
+00:00:07	00:00:12	Reg_Scen: ELC_ELC_NoCOA-2030
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:21	00:00:23	Updating SysSettings...
+00:00:06	00:00:08	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:14:22
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (5)
+00:00:08		Reg_Scen: ELC_RES99
+00:00:06		Reg_Scen: ELC_UnitCommitment
+00:00:00		VEDA To TIMES I...
+00:00:23		Updating SysSettings...
+00:00:08		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:16:57
+---------------------------------------------------------------------------------
+
+Total time taken 00:02:33
+
+Exp. Time	Act. Time	Task (5)
+00:00:08	00:00:07	Reg_Scen: ELC_RES99
+00:00:06	00:01:49	Reg_Scen: ELC_UnitCommitment
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:23	00:00:27	Updating SysSettings...
+00:00:08	00:00:10	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:19:37
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:01:49		Reg_Scen: ELC_UnitCommitment
+00:00:00		VEDA To TIMES I...
+00:00:27		Updating SysSettings...
+00:00:10		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:21:43
+---------------------------------------------------------------------------------
+
+Total time taken 00:02:04
+
+Exp. Time	Act. Time	Task (4)
+00:01:49	00:01:36	Reg_Scen: ELC_UnitCommitment
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:27	00:00:21	Updating SysSettings...
+00:00:10	00:00:07	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:26:39
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:01:36		Reg_Scen: ELC_UnitCommitment
+00:00:00		VEDA To TIMES I...
+00:00:21		Updating SysSettings...
+00:00:07		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:28:53
+---------------------------------------------------------------------------------
+
+Total time taken 00:02:13
+
+Exp. Time	Act. Time	Task (4)
+00:01:36	00:01:45	Reg_Scen: ELC_UnitCommitment
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:21	00:00:21	Updating SysSettings...
+00:00:07	00:00:07	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:35:59
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:01:45		Reg_Scen: ELC_UnitCommitment
+00:00:00		VEDA To TIMES I...
+00:00:21		Updating SysSettings...
+00:00:07		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:38:13
+---------------------------------------------------------------------------------
+
+Total time taken 00:02:11
+
+Exp. Time	Act. Time	Task (4)
+00:01:45	00:01:43	Reg_Scen: ELC_UnitCommitment
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:21	00:00:22	Updating SysSettings...
+00:00:07	00:00:06	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:43:55
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:07		Reg_Scen: ELC_RES99
+00:00:00		VEDA To TIMES I...
+00:00:22		Updating SysSettings...
+00:00:06		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:44:33
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:36
+
+Exp. Time	Act. Time	Task (4)
+00:00:07	00:00:07	Reg_Scen: ELC_RES99
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:22	00:00:21	Updating SysSettings...
+00:00:06	00:00:08	VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:50:50
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (4)
+00:00:10		Reg_Scen: ELC_AF_12TS
+00:00:00		VEDA To TIMES I...
+00:00:21		Updating SysSettings...
+00:00:08		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 2020/11/23 2:51:35
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:43
+
+Exp. Time	Act. Time	Task (4)
+00:00:10	00:00:19	Reg_Scen: ELC_AF_12TS
+00:00:00	00:00:00	VEDA To TIMES I...
+00:00:21	00:00:18	Updating SysSettings...
+00:00:08	00:00:06	VEDA To TIMES II...
+
+
+
+

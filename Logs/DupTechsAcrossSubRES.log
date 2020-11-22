@@ -1,0 +1,15 @@
+The following processes has Re-Define across SubRES:
+------------------------------------------------
+Scenario-Region-Process
+
+ELC_V00p01 ; IE ; EPPWin_01_ON
+ELC_V00p01 ; IE ; EPPWin_02_ON
+ELC_V00p01 ; IE ; EPPWin_03_ON
+ELC_V00p01 ; IE ; EPPWin_04_ON
+ELC_V00p01 ; IE ; EPPWin_05_ON
+ELC-Win_UCC ; IE ; EPPWin_01_ON
+ELC-Win_UCC ; IE ; EPPWin_02_ON
+ELC-Win_UCC ; IE ; EPPWin_03_ON
+ELC-Win_UCC ; IE ; EPPWin_04_ON
+ELC-Win_UCC ; IE ; EPPWin_05_ON
+
