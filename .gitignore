@@ -1,0 +1,7 @@
+*.mdb
+*.ldb
+*.log
+*.xls
+*.ini
+*.xlk
+!Databases/UserOptions.*
