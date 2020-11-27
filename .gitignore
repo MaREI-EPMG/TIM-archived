@@ -5,3 +5,4 @@
 *.ini
 *.xlk
 !Databases/UserOptions.*
+!veda_snt.mdb
