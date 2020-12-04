@@ -1,8 +1,0 @@
-*.mdb
-*.ldb
-*.log
-*.xls
-*.ini
-*.xlk
-!Databases/UserOptions.*
-!veda_snt.mdb
