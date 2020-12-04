@@ -1,1 +1,104 @@
-[{"CaseId":20,"CreatedOn":"2020-11-04 00:38","Description":"","EndingYear":"2018","FixResultFileName":"False","FixResultInfo":{"GdxElasticDermands":{"GdxSelectedFile":{"FileName":"","FilePath":"","IsSelected":false},"IsApplied":false},"GdxIre":{"GdxSelectedFile":{"FileName":"","FilePath":"","IsSelected":false},"IsApplied":false,"RadioSelection":1},"GdxUseSolution":{"FixYearsUpto":"","GdxSelectedFile":{"FileName":"","FilePath":"","IsSelected":false},"IsApplied":false,"RadioSelection":1},"IsApplyFixResult":false},"GAMSSourceFolder":"GAMS_SrcTIMES","Name":"Test_2018","ParametricGroup":null,"ParametricGroupId":null,"PeriodsDefinition":"p12","PropertiesGroup":"DefaultProperties","PropertiesGroupId":44,"RegionGroup":"AllRegion","RegionGroupId":43,"ScenarioGroup":"Basic","ScenarioGroupId":45,"Solver":"CPLEX","SolverOptionFile":"CPLEX","EditedOn":"2020-11-27 11:02"},{"CaseId":21,"CreatedOn":"2020-11-18 23:13","Description":"","EndingYear":"2070","FixResultFileName":"False","FixResultInfo":{"GdxElasticDermands":{"GdxSelectedFile":{"FileName":"","FilePath":"","IsSelected":false},"IsApplied":false},"GdxIre":{"GdxSelectedFile":{"FileName":"","FilePath":"","IsSelected":false},"IsApplied":false,"RadioSelection":1},"GdxUseSolution":{"FixYearsUpto":"","GdxSelectedFile":{"FileName":"","FilePath":"","IsSelected":false},"IsApplied":false,"RadioSelection":1},"IsApplyFixResult":false},"GAMSSourceFolder":"GAMS_SrcTIMES","Name":"Test_2018-2070","ParametricGroup":null,"ParametricGroupId":null,"PeriodsDefinition":"p12","PropertiesGroup":"DefaultProperties","PropertiesGroupId":44,"RegionGroup":"AllRegion","RegionGroupId":43,"ScenarioGroup":"Basic","ScenarioGroupId":45,"Solver":"CPLEX","SolverOptionFile":"CPLEX","EditedOn":"2020-11-27 11:02"}]
+[
+  {
+    "CaseId": 9,
+    "CreatedOn": "2020-11-04 00:38",
+    "Description": "",
+    "EndingYear": "2018",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES",
+    "Name": "Test_2018",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p12",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 19,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 18,
+    "ScenarioGroup": "Basic",
+    "ScenarioGroupId": 20,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "EditedOn": "2020-12-03 17:57"
+  },
+  {
+    "CaseId": 10,
+    "CreatedOn": "2020-11-18 23:13",
+    "Description": "",
+    "EndingYear": "2070",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES",
+    "Name": "Test_2018-2070",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p12",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 19,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 18,
+    "ScenarioGroup": "Basic",
+    "ScenarioGroupId": 20,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "EditedOn": "2020-12-03 22:15"
+  }
+]
