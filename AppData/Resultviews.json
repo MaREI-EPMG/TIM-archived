@@ -186,7 +186,7 @@
     "Description": "Freight Transport - Land - Mode",
     "Units": "Btkm",
     "EditedOn": "2020-12-08 00:11",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"DEM_TRA\"],\"processset\": [\"DMD_TRA-F-HTRUCK\",\"DMD_TRA-F-LTRUCK\",\"DMD_TRA-F-TRAIN\"]}"
+    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"DEM_TRA\"],\"processset\": [\"DMD_TRA-F-HTRUCK\",\"DMD_TRA-F-LTRUCK\",\"DMD_TRA-F-MTRUCK\",\"DMD_TRA-F-TRAIN\"]}"
   },
   {
     "Name": "TRA_Passenger_Land_Distance",
@@ -375,7 +375,7 @@
     "Description": "Freight Transport - Land - Mode",
     "Units": "Btkm",
     "EditedOn": "2020-12-08 00:22",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"DEM_TRA\"],\"processset\": [\"DMD_TRA-F-HTRUCK\",\"DMD_TRA-F-LTRUCK\",\"DMD_TRA-F-TRAIN\"]}"
+    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"DEM_TRA\"],\"processset\": [\"DMD_TRA-F-HTRUCK\",\"DMD_TRA-F-LTRUCK\",\"DMD_TRA-F-MTRUCK\",\"DMD_TRA-F-TRAIN\"]}"
   },
   {
     "Name": "wa_TRA_Passenger_Land_Distance",
