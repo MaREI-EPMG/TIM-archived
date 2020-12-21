@@ -91,6 +91,34 @@
     "Filter": "{\"attribute\": [\"Cost_Act\"],\"processset\": [\"PWR_BIO\",\"PWR_COA\",\"PWR_GAS\",\"PWR_GAS_CCS\",\"PWR_H2\",\"PWR_HYD\",\"PWR_OCE\",\"PWR_OIL\",\"PWR_SOL\",\"PWR_WIN_OF\",\"PWR_WIN_ON\"],\"userconstraint\": [\"+\"]}"
   },
   {
+    "Name": "RSD_Services_CO2Emissions",
+    "Description": "Residential CO2 emissions by energy service",
+    "Units": "kt",
+    "EditedOn": "2020-12-08 22:31",
+    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"ENV_CO2-RSD\"],\"processset\": [\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-SC\",\"RSD_NRGSRV-SH\",\"RSD_NRGSRV-WH\"]}"
+  },
+  {
+    "Name": "RSD_Services_EnergyCons",
+    "Description": "Residential energy consumption by energy service",
+    "Units": "PJ",
+    "EditedOn": "2020-12-08 22:21",
+    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NRG\"],\"processset\": [\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-SC\",\"RSD_NRGSRV-SH\",\"RSD_NRGSRV-WH\"]}"
+  },
+  {
+    "Name": "RSD_SpaceHeating_FuelCons",
+    "Description": "Residential space heating fuel consumption",
+    "Units": "PJ",
+    "EditedOn": "2020-12-08 22:26",
+    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NRG\"],\"processset\": [\"RSD_NRGSRV-SH\"]}"
+  },
+  {
+    "Name": "RSD_WaterHeating_FuelCons",
+    "Description": "Residential water heating fuel consumption",
+    "Units": "PJ",
+    "EditedOn": "2020-12-08 22:27",
+    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NRG\"],\"processset\": [\"RSD_NRGSRV-WH\"]}"
+  },
+  {
     "Name": "SUP_BIODST",
     "Description": "Supply of bio-diesel (import and production)",
     "Units": "PJ",
@@ -257,6 +285,34 @@
     "Units": "GW",
     "EditedOn": "2020-12-08 00:20",
     "Filter": "{\"attribute\": [\"VAR_Cap\"],\"processset\": [\"PWR_BIO\",\"PWR_COA\",\"PWR_GAS\",\"PWR_GAS_CCS\",\"PWR_H2\",\"PWR_HYD\",\"PWR_OCE\",\"PWR_OIL\",\"PWR_SOL\",\"PWR_WIN_OF\",\"PWR_WIN_ON\"]}"
+  },
+  {
+    "Name": "wa_RSD_Services_CO2Emissions",
+    "Description": "Residential CO2 emissions by energy service",
+    "Units": "kt",
+    "EditedOn": "2020-12-08 22:31",
+    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"ENV_CO2-RSD\"],\"processset\": [\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-SC\",\"RSD_NRGSRV-SH\",\"RSD_NRGSRV-WH\"]}"
+  },
+  {
+    "Name": "wa_RSD_Services_EnergyCons",
+    "Description": "Residential energy consumption by energy service",
+    "Units": "PJ",
+    "EditedOn": "2020-12-08 22:22",
+    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NRG\"],\"processset\": [\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-SC\",\"RSD_NRGSRV-SH\",\"RSD_NRGSRV-WH\"]}"
+  },
+  {
+    "Name": "wa_RSD_SpaceHeating_FuelCons",
+    "Description": "Residential space heating fuel consumption",
+    "Units": "PJ",
+    "EditedOn": "2020-12-08 22:32",
+    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NRG\"],\"processset\": [\"RSD_NRGSRV-SH\"]}"
+  },
+  {
+    "Name": "wa_RSD_WaterHeating_FuelCons",
+    "Description": "Residential water heating fuel consumption",
+    "Units": "PJ",
+    "EditedOn": "2020-12-08 22:33",
+    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NRG\"],\"processset\": [\"RSD_NRGSRV-WH\"]}"
   },
   {
     "Name": "wa_SUP_BIODST",
