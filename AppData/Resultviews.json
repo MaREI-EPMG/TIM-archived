@@ -236,5 +236,103 @@
     "Units": "PJ",
     "EditedOn": "2020-12-07 17:10",
     "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NGR_TRA_FUELS\"],\"processset\": [\"DMD_TRA-REST\"]}"
+  },
+  {
+    "Description": "Industry - CO2 Emissions",
+    "Units": "kt",
+    "EditedOn": "2021-01-27 16:55",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DMD_IND-CAF\",\"DMD_IND-EOE\",\"DMD_IND-FAB\",\"DMD_IND-MAE\",\"DMD_IND-MAP\",\"DMD_IND-NEM\",\"DMD_IND-OMA\",\"DMD_IND-ONM\",\"DMD_IND-PX4\",\"DMD_IND-RAP\",\"DMD_IND-TAP\",\"DMD_IND-TEM\",\"DMD_IND-WAP\"],\"commodityset\":[\"ENV_CO2\"]}",
+    "Name": "IND_Emissions-CO2"
+  },
+  {
+    "Description": "Industry - Wood and wood products - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-WAP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-WAP_FEC"
+  },
+  {
+    "Description": "Industry - Transport equipment manufacture - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-TEM\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-TEM_FEC"
+  },
+  {
+    "Description": "Industry - Textiles and textile products - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-TAP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-TAP_FEC"
+  },
+  {
+    "Description": "Industry - Rubber and plastic products - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-RAP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-RAP_FEC"
+  },
+  {
+    "Description": "Industry - Pulp, paper, publishing and printing - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-PX4\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-PX4_FEC"
+  },
+  {
+    "Description": "Industry - Other non-metalic mineral products - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-ONM\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-ONM_FEC"
+  },
+  {
+    "Description": "Industry - Other manufacturing - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-OMA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-OMA_FEC"
+  },
+  {
+    "Description": "Industry - Non-energy mining - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-NEM\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-NEM_FEC"
+  },
+  {
+    "Description": "Industry - Basic metals and fabricated metal products - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-MAP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-MAP_FEC"
+  },
+  {
+    "Description": "Industry - Machinery and equipment n.e.c. - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-MAE\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-MAE_FEC"
+  },
+  {
+    "Description": "Industry - Food and beverages - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-FAB\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-FAB_FEC"
+  },
+  {
+    "Description": "Industry - Electrical and optical equipment - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-EOE\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-EOE_FEC"
+  },
+  {
+    "Description": "Industry - Chemicals and man-made fibers - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-CAF\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-CAF_FEC"
   }
 ]
