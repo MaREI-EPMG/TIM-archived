@@ -14,38 +14,38 @@
     "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodity\": [\"COMELC\",\"ELCC\",\"ELCD\"],\"processset\": [\"ELE_SOL_CSP\",\"ELE_SOL_PV\",\"PWR_BIO\",\"PWR_COA\",\"PWR_GAS\",\"PWR_GAS_CCS\",\"PWR_H2\",\"PWR_HYD\",\"PWR_OCE\",\"PWR_OIL\",\"PWR_WIN_OF\",\"PWR_WIN_ON\"]}"
   },
   {
-    "Name": "FEC_AGR",
+    "Name": "AGR_FEC",
     "Description": "Agriculture final energy consumption",
     "Units": "PJ",
-    "EditedOn": "2020-11-27 14:02",
+    "EditedOn": "2020-01-27 10:26",
     "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-AGR\"]}"
   },
   {
-    "Name": "FEC_COM",
+    "Name": "COM_FEC",
     "Description": "Commercial final energy consumption",
     "Units": "PJ",
-    "EditedOn": "2020-11-27 14:04",
+    "EditedOn": "2020-01-27 10:26",
     "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-COM\"]}"
   },
   {
-    "Name": "FEC_IND",
+    "Name": "IND_FEC",
     "Description": "Industry final energy consumption",
     "Units": "PJ",
-    "EditedOn": "2020-11-27 14:02",
+    "EditedOn": "2020-01-27 10:26",
     "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-IND\"]}"
   },
   {
-    "Name": "FEC_RSD",
+    "Name": "RSD_FEC",
     "Description": "Residential final energy consumption",
     "Units": "PJ",
-    "EditedOn": "2020-11-27 14:04",
+    "EditedOn": "2020-01-27 10:26",
     "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-RSD\"]}"
   },
   {
-    "Name": "FEC_TRA",
+    "Name": "TRA_FEC",
     "Description": "Transport final energy consumption",
     "Units": "PJ",
-    "EditedOn": "2020-11-27 14:06",
+    "EditedOn": "2020-01-27 10:26",
     "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-TRA\"]}"
   },
   {
@@ -238,192 +238,101 @@
     "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NGR_TRA_FUELS\"],\"processset\": [\"DMD_TRA-REST\"]}"
   },
   {
-    "Name": "wa_ELC_Generation",
-    "Description": "Electricity generation",
-    "Units": "PJ",
-    "EditedOn": "2020-12-08 00:19",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodity\": [\"COMELC\",\"ELCC\",\"ELCD\"],\"processset\": [\"ELE_SOL_CSP\",\"ELE_SOL_PV\",\"PWR_BIO\",\"PWR_COA\",\"PWR_GAS\",\"PWR_GAS_CCS\",\"PWR_H2\",\"PWR_HYD\",\"PWR_OCE\",\"PWR_OIL\",\"PWR_WIN_OF\",\"PWR_WIN_ON\"]}"
-  },
-  {
-    "Name": "wa_FEC_AGR",
-    "Description": "Agriculture final energy consumption",
-    "Units": "PJ",
-    "EditedOn": "2020-11-27 14:10",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-AGR\"]}"
-  },
-  {
-    "Name": "wa_FEC_COM",
-    "Description": "Commercial final energy consumption",
-    "Units": "PJ",
-    "EditedOn": "2020-11-27 14:11",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-COM\"]}"
-  },
-  {
-    "Name": "wa_FEC_IND",
-    "Description": "Industry final energy consumption",
-    "Units": "PJ",
-    "EditedOn": "2020-11-27 14:11",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-IND\"]}"
-  },
-  {
-    "Name": "wa_FEC_RSD",
-    "Description": "Residential final energy consumption",
-    "Units": "PJ",
-    "EditedOn": "2020-11-27 14:12",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-RSD\"]}"
-  },
-  {
-    "Name": "wa_FEC_TRA",
-    "Description": "Transport final energy consumption",
-    "Units": "PJ",
-    "EditedOn": "2020-11-27 14:10",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-TRA\"]}"
-  },
-  {
-    "Name": "wa_PWR_Cap",
-    "Description": "PWR Capacity",
-    "Units": "GW",
-    "EditedOn": "2020-12-08 00:20",
-    "Filter": "{\"attribute\": [\"VAR_Cap\"],\"processset\": [\"PWR_BIO\",\"PWR_COA\",\"PWR_GAS\",\"PWR_GAS_CCS\",\"PWR_H2\",\"PWR_HYD\",\"PWR_OCE\",\"PWR_OIL\",\"PWR_SOL\",\"PWR_WIN_OF\",\"PWR_WIN_ON\"]}"
-  },
-  {
-    "Name": "wa_RSD_Services_CO2Emissions",
-    "Description": "Residential CO2 emissions by energy service",
+    "Description": "Industry - CO2 Emissions",
     "Units": "kt",
-    "EditedOn": "2020-12-08 22:31",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"ENV_CO2-RSD\"],\"processset\": [\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-SC\",\"RSD_NRGSRV-SH\",\"RSD_NRGSRV-WH\"]}"
+    "EditedOn": "2021-01-27 16:55",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DMD_IND-CAF\",\"DMD_IND-EOE\",\"DMD_IND-FAB\",\"DMD_IND-MAE\",\"DMD_IND-MAP\",\"DMD_IND-NEM\",\"DMD_IND-OMA\",\"DMD_IND-ONM\",\"DMD_IND-PX4\",\"DMD_IND-RAP\",\"DMD_IND-TAP\",\"DMD_IND-TEM\",\"DMD_IND-WAP\"],\"commodityset\":[\"ENV_CO2\"]}",
+    "Name": "IND_Emissions-CO2"
   },
   {
-    "Name": "wa_RSD_Services_EnergyCons",
-    "Description": "Residential energy consumption by energy service",
+    "Description": "Industry - Wood and wood products - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-08 22:22",
-    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NRG\"],\"processset\": [\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-SC\",\"RSD_NRGSRV-SH\",\"RSD_NRGSRV-WH\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-WAP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-WAP_FEC"
   },
   {
-    "Name": "wa_RSD_SpaceHeating_FuelCons",
-    "Description": "Residential space heating fuel consumption",
+    "Description": "Industry - Transport equipment manufacture - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-08 22:32",
-    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NRG\"],\"processset\": [\"RSD_NRGSRV-SH\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-TEM\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-TEM_FEC"
   },
   {
-    "Name": "wa_RSD_WaterHeating_FuelCons",
-    "Description": "Residential water heating fuel consumption",
+    "Description": "Industry - Textiles and textile products - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-08 22:33",
-    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NRG\"],\"processset\": [\"RSD_NRGSRV-WH\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-TAP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-TAP_FEC"
   },
   {
-    "Name": "wa_SUP_BIODST",
-    "Description": "Supply of bio-diesel (import and production)",
+    "Description": "Industry - Rubber and plastic products - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-07 22:18",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodity\": [\"BIODST1G\",\"BIODST2G\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-RAP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-RAP_FEC"
   },
   {
-    "Name": "wa_SUP_BIOETH",
-    "Description": "Supply of bio-ethanol (import and production)",
+    "Description": "Industry - Pulp, paper, publishing and printing - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-07 22:18",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodity\": [\"BIOETH1G\",\"BIOETH2G\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-PX4\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-PX4_FEC"
   },
   {
-    "Name": "wa_SUP_BIOGAS",
-    "Description": "Supply of biogas (import and production)",
+    "Description": "Industry - Other non-metalic mineral products - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-07 22:19",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodity\": [\"BIOGAS1G\",\"BIOGAS2G\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-ONM\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-ONM_FEC"
   },
   {
-    "Name": "wa_SYS_Emissions_CH4",
-    "Description": "CH4 emissions by sector",
-    "Units": "kt",
-    "EditedOn": "2020-12-08 00:20",
-    "Filter": "{\"attribute\": [\"VAR_Comnet\"],\"commodityset\": [\"ENV_CH4-AGR\",\"ENV_CH4-COM\",\"ENV_CH4-IND\",\"ENV_CH4-PWR\",\"ENV_CH4-RSD\",\"ENV_CH4-SUP\",\"ENV_CH4-TRA\"]}"
-  },
-  {
-    "Name": "wa_SYS_Emissions_CO2",
-    "Description": "CO2 emissions by sector",
-    "Units": "kt",
-    "EditedOn": "2020-12-08 00:20",
-    "Filter": "{\"attribute\": [\"VAR_Comnet\"],\"commodityset\": [\"ENV_CO2-AGR\",\"ENV_CO2-COM\",\"ENV_CO2-IND\",\"ENV_CO2-PWR\",\"ENV_CO2-RSD\",\"ENV_CO2-SUP\",\"ENV_CO2-TRA\"]}"
-  },
-  {
-    "Name": "wa_SYS_Emissions_N2O",
-    "Description": "N2O emissions by sector",
-    "Units": "kt",
-    "EditedOn": "2020-12-08 00:21",
-    "Filter": "{\"attribute\": [\"VAR_Comnet\"],\"commodityset\": [\"ENV_N2O-AGR\",\"ENV_N2O-COM\",\"ENV_N2O-IND\",\"ENV_N2O-PWR\",\"ENV_N2O-RSD\",\"ENV_N2O-SUP\",\"ENV_N2O-TRA\"]}"
-  },
-  {
-    "Name": "wa_SYS_FEC_Sector",
-    "Description": "Final energy consumption by sector",
+    "Description": "Industry - Other manufacturing - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-08 00:21",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"NRG\"],\"processset\": [\"FT-AGR\",\"FT-COM\",\"FT-IND\",\"FT-RSD\",\"FT-TRA\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-OMA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-OMA_FEC"
   },
   {
-    "Name": "wa_TRA_Freight_Land_FuelCons",
-    "Description": "Freight Transport - Land - Fuel Consumption",
+    "Description": "Industry - Non-energy mining - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-07 22:23",
-    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NGR_TRA_FUELS\"],\"processset\": [\"DMD_TRA-F-LAND\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-NEM\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-NEM_FEC"
   },
   {
-    "Name": "wa_TRA_Freight_Land_Mode",
-    "Description": "Freight Transport - Land - Mode",
-    "Units": "Btkm",
-    "EditedOn": "2020-12-08 00:22",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"DEM_TRA\"],\"processset\": [\"DMD_TRA-F-HTRUCK\",\"DMD_TRA-F-LTRUCK\",\"DMD_TRA-F-MTRUCK\",\"DMD_TRA-F-TRAIN\"]}"
-  },
-  {
-    "Name": "wa_TRA_Passenger_Land_Distance",
-    "Description": "Passenger Transport - Land - Distance",
-    "Units": "Bpkm",
-    "EditedOn": "2020-12-07 22:24",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodity\": [\"TRAPL\",\"TRAPM\",\"TRAPS\"],\"processset\": [\"DMD_TRA-P-LAND\"]}"
-  },
-  {
-    "Name": "wa_TRA_Passenger_Land_FuelCons",
-    "Description": "Passenger Transport - Land - Fuel Consumption",
+    "Description": "Industry - Basic metals and fabricated metal products - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-07 22:26",
-    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NGR_TRA_FUELS\"],\"processset\": [\"DMD_TRA-P-LAND\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-MAP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-MAP_FEC"
   },
   {
-    "Name": "wa_TRA_Passenger_Land_Mode",
-    "Description": "Passenger Transport - Land - Mode",
-    "Units": "Bpkm",
-    "EditedOn": "2020-12-08 00:23",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"DEM_TRA\"],\"processset\": [\"DMD_TRA-P-ACTIVE\",\"DMD_TRA-P-BUS\",\"DMD_TRA-P-CAR\",\"DMD_TRA-P-HPT\",\"DMD_TRA-P-LPT\",\"DMD_TRA-P-MOT\",\"DMD_TRA-P-TAXI\"]}"
-  },
-  {
-    "Name": "wa_TRA_Passenger_Land_Mode-L",
-    "Description": "Passenger Transport - Land - Mode - Long-range",
-    "Units": "Bpkm",
-    "EditedOn": "2020-12-08 00:23",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodity\": [\"TRAPL\"],\"processset\": [\"DMD_TRA-P-ACTIVE\",\"DMD_TRA-P-BUS\",\"DMD_TRA-P-CAR\",\"DMD_TRA-P-HPT\",\"DMD_TRA-P-LPT\",\"DMD_TRA-P-MOT\",\"DMD_TRA-P-TAXI\"]}"
-  },
-  {
-    "Name": "wa_TRA_Passenger_Land_Mode-M",
-    "Description": "Passenger Transport - Land - Mode - Medium-range",
-    "Units": "Bpkm",
-    "EditedOn": "2020-12-08 00:23",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodity\": [\"TRAPM\"],\"processset\": [\"DMD_TRA-P-ACTIVE\",\"DMD_TRA-P-BUS\",\"DMD_TRA-P-CAR\",\"DMD_TRA-P-HPT\",\"DMD_TRA-P-LPT\",\"DMD_TRA-P-MOT\",\"DMD_TRA-P-TAXI\"]}"
-  },
-  {
-    "Name": "wa_TRA_Passenger_Land_Mode-S",
-    "Description": "Passenger Transport - Land - Mode - Short-range",
-    "Units": "Bpkm",
-    "EditedOn": "2020-12-08 00:23",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodity\": [\"TRAPS\"],\"processset\": [\"DMD_TRA-P-ACTIVE\",\"DMD_TRA-P-BUS\",\"DMD_TRA-P-CAR\",\"DMD_TRA-P-HPT\",\"DMD_TRA-P-LPT\",\"DMD_TRA-P-MOT\",\"DMD_TRA-P-TAXI\"]}"
-  },
-  {
-    "Name": "wa_TRA_Rest_FuelCons",
-    "Description": "Transport - Rest - Fuel Consumption",
+    "Description": "Industry - Machinery and equipment n.e.c. - FEC",
     "Units": "PJ",
-    "EditedOn": "2020-12-07 22:29",
-    "Filter": "{\"attribute\": [\"VAR_FIn\"],\"commodityset\": [\"NGR_TRA_FUELS\"],\"processset\": [\"DMD_TRA-REST\"]}"
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-MAE\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-MAE_FEC"
+  },
+  {
+    "Description": "Industry - Food and beverages - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-FAB\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-FAB_FEC"
+  },
+  {
+    "Description": "Industry - Electrical and optical equipment - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-EOE\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-EOE_FEC"
+  },
+  {
+    "Description": "Industry - Chemicals and man-made fibers - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-CAF\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "IND-CAF_FEC"
   }
 ]
