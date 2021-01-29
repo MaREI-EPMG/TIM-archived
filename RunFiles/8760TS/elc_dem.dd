@@ -1,0 +1,112 @@
+$ONEMPTY
+$ONEPS
+$ONWARNING
+$SET RUN_NAME '8760TS'
+$SET SCENARIO_NAME 'elc_dem'
+
+
+SET UNITS_COM
+/
+'PJ'
+
+/
+
+SET UNITS_CAP
+/
+'PJa'
+
+/
+
+SET UNITS_ACT
+/
+'PJ'
+
+/
+
+SET COM_TMAP
+/
+'IE'.'DEM'.'DEMELC'
+'IE'.'DEM'.'DEMH2T'
+
+/
+
+SET COM_TSL
+/
+'IE'.'DEMELC'.'DAYNITE'
+'IE'.'DEMH2T'.'DAYNITE'
+
+/
+
+SET COM_UNIT
+/
+'IE'.'DEMELC'.'PJ'
+'IE'.'DEMH2T'.'PJ'
+
+/
+
+SET PRC
+/
+'DEMH2'
+'DMDELC'
+
+/
+
+SET PRC_MAP
+/
+'IE'.'DMD'.'DEMH2'
+'IE'.'DMD'.'DMDELC'
+
+/
+
+SET PRC_TSL
+/
+'IE'.'DEMH2'.'DAYNITE'
+'IE'.'DMDELC'.'DAYNITE'
+
+/
+
+SET PRC_ACTUNT
+/
+'IE'.'DEMH2'.'DEMH2T'.'PJ'
+'IE'.'DMDELC'.'DEMELC'.'PJ'
+
+/
+
+SET TOP
+/
+'IE'.'DEMH2'.'DEMH2T'.'OUT'
+'IE'.'DEMH2'.'SUPH2LD'.'IN'
+'IE'.'DMDELC'.'DEMELC'.'OUT'
+'IE'.'DMDELC'.'ELCD'.'IN'
+
+/
+
+SET TOP_IRE
+/
+'IMPEXP'.'DEMELC'.'IE'.'DEMELC'.'IMPDEMZ'
+'IMPEXP'.'DEMH2T'.'IE'.'DEMH2T'.'IMPDEMZ'
+
+/
+
+SET PRC_DESC
+/
+'IE'.'DEMH2' 'Hydrogen Demand Transport'
+'IE'.'DMDELC' 'Demand Electricity Process'
+
+/
+
+SET COM_DESC
+/
+'IE'.'DEMELC' 'Demand Electricity'
+'IE'.'DEMH2T' 'Hydrogen Demand Transport'
+
+/
+
+PARAMETER
+ACT_EFF ' '/
+'IE'.'2018'.'DEMH2'.'ACT'.'ANNUAL' 1
+'IE'.'2018'.'DMDELC'.'ACT'.'ANNUAL' 1
+
+/
+
+

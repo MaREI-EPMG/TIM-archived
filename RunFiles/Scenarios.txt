@@ -1,0 +1,26 @@
+8760TS: REF scenario
+$BATINCLUDE base.dd
+$BATINCLUDE elc_dem.dd
+$BATINCLUDE elc_v00p01.dd
+$BATINCLUDE sup_hydrogen.dd
+$BATINCLUDE syssettings.dd
+$BATINCLUDE elc_af_8760ts.dd
+$BATINCLUDE elc_ccs.dd
+$BATINCLUDE elc_dem_8760ts.dd
+$BATINCLUDE elc_elc_nocoa-2030.dd
+$BATINCLUDE elc_rnw.dd
+$BATINCLUDE elc_snsp.dd
+
+
+8760TS_UC: REF scenario with Unit Commitment
+$BATINCLUDE elc_unitcommitment.dd
+
+8760TS_RE：100% renewable by 2050, 80% CO2 reduction
+$BATINCLUDE elc_res99.dd
+$BATINCLUDE elc_co2_target2050_co2-80.dd
+
+
+8760TS_UC_RE: 100% renewable by 2050, 80% CO2 reduction, with unit commitment
+$BATINCLUDE elc_res99.dd
+$BATINCLUDE elc_co2_target2050_co2-80.dd
+$BATINCLUDE elc_unitcommitment.dd

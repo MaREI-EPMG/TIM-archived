@@ -1,0 +1,9 @@
+Restart=..\..\GAMS_SrcTIMES.v.4.4.2\_times
+Input=8760TS_UC.RUN
+PageSize=99999
+ScrDir=225a
+SysDir=C:\GAMS\win64\24.3
+ScriptNext=225a\gamsnext.cmd
+InputDir1=..\..\GAMS_SrcTIMES.v.4.4.2
+InputDir2=..\
+GDX=GAMSSAVE\8760TS_UC

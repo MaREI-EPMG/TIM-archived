@@ -1,0 +1,132 @@
+$ONEMPTY
+$ONEPS
+$ONWARNING
+$SET RUN_NAME '8760TS_UC_RE'
+$SET SCENARIO_NAME 'elc_ccs'
+
+
+SET UNITS_COM
+/
+'UCU'
+
+/
+
+SET COM_TMAP
+/
+'IE'.'NRG'.'CCS_Cork_MaxCap-'
+'IE'.'NRG'.'CCS_Cork_MaxCap_'
+'IE'.'NRG'.'CCS_Dublin_MaxCap-'
+'IE'.'NRG'.'CCS_Dublin_MaxCap_'
+'IE'.'NRG'.'CCS_Kilroot_MaxCap-'
+'IE'.'NRG'.'CCS_Kilroot_MaxCap_'
+'IE'.'NRG'.'CCS_Moneypoint_MaxCap-'
+'IE'.'NRG'.'CCS_Moneypoint_MaxCap_'
+'IE'.'NRG'.'CCS_Offaly_MaxCap-'
+'IE'.'NRG'.'CCS_Offaly_MaxCap_'
+
+/
+
+SET COM_UNIT
+/
+'IE'.'CCS_Cork_MaxCap-'.'UCU'
+'IE'.'CCS_Cork_MaxCap_'.'UCU'
+'IE'.'CCS_Dublin_MaxCap-'.'UCU'
+'IE'.'CCS_Dublin_MaxCap_'.'UCU'
+'IE'.'CCS_Kilroot_MaxCap-'.'UCU'
+'IE'.'CCS_Kilroot_MaxCap_'.'UCU'
+'IE'.'CCS_Moneypoint_MaxCap-'.'UCU'
+'IE'.'CCS_Moneypoint_MaxCap_'.'UCU'
+'IE'.'CCS_Offaly_MaxCap-'.'UCU'
+'IE'.'CCS_Offaly_MaxCap_'.'UCU'
+
+/
+
+SET TOP_IRE
+/
+'IMPEXP'.'CCS_Cork_MaxCap-'.'IE'.'CCS_Cork_MaxCap-'.'IMPNRGZ'
+'IMPEXP'.'CCS_Cork_MaxCap_'.'IE'.'CCS_Cork_MaxCap_'.'IMPNRGZ'
+'IMPEXP'.'CCS_Dublin_MaxCap-'.'IE'.'CCS_Dublin_MaxCap-'.'IMPNRGZ'
+'IMPEXP'.'CCS_Dublin_MaxCap_'.'IE'.'CCS_Dublin_MaxCap_'.'IMPNRGZ'
+'IMPEXP'.'CCS_Kilroot_MaxCap-'.'IE'.'CCS_Kilroot_MaxCap-'.'IMPNRGZ'
+'IMPEXP'.'CCS_Kilroot_MaxCap_'.'IE'.'CCS_Kilroot_MaxCap_'.'IMPNRGZ'
+'IMPEXP'.'CCS_Moneypoint_MaxCap-'.'IE'.'CCS_Moneypoint_MaxCap-'.'IMPNRGZ'
+'IMPEXP'.'CCS_Moneypoint_MaxCap_'.'IE'.'CCS_Moneypoint_MaxCap_'.'IMPNRGZ'
+'IMPEXP'.'CCS_Offaly_MaxCap-'.'IE'.'CCS_Offaly_MaxCap-'.'IMPNRGZ'
+'IMPEXP'.'CCS_Offaly_MaxCap_'.'IE'.'CCS_Offaly_MaxCap_'.'IMPNRGZ'
+
+/
+
+SET COM_DESC
+/
+'IE'.'CCS_Cork_MaxCap-' 'Negative dummy var for UC: CCS_Cork_MaxCap'
+'IE'.'CCS_Cork_MaxCap_' 'Positive dummy var for UC: CCS_Cork_MaxCap'
+'IE'.'CCS_Dublin_MaxCap-' 'Negative dummy var for UC: CCS_Dublin_MaxCap'
+'IE'.'CCS_Dublin_MaxCap_' 'Positive dummy var for UC: CCS_Dublin_MaxCap'
+'IE'.'CCS_Kilroot_MaxCap-' 'Negative dummy var for UC: CCS_Kilroot_MaxCap'
+'IE'.'CCS_Kilroot_MaxCap_' 'Positive dummy var for UC: CCS_Kilroot_MaxCap'
+'IE'.'CCS_Moneypoint_MaxCap-' 'Negative dummy var for UC: CCS_Moneypoint_MaxCap'
+'IE'.'CCS_Moneypoint_MaxCap_' 'Positive dummy var for UC: CCS_Moneypoint_MaxCap'
+'IE'.'CCS_Offaly_MaxCap-' 'Negative dummy var for UC: CCS_Offaly_MaxCap'
+'IE'.'CCS_Offaly_MaxCap_' 'Positive dummy var for UC: CCS_Offaly_MaxCap'
+
+/
+
+SET UC_R_EACH
+/
+'IE'.'CCS_Cork_MaxCap'
+'IE'.'CCS_Dublin_MaxCap'
+'IE'.'CCS_Kilroot_MaxCap'
+'IE'.'CCS_Moneypoint_MaxCap'
+'IE'.'CCS_Offaly_MaxCap'
+
+/
+
+PARAMETER
+UC_CAP ' '/
+'CCS_Cork_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-CCGT-GAS-CCS04-Cork1' 1
+'CCS_Cork_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-CCGT-GAS-CCS04-Cork2' 1
+'CCS_Dublin_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-CCGT-GAS-CCS04-Dublin2' 1
+'CCS_Dublin_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-CCGT-GAS-CCS04Dublin1' 1
+'CCS_Kilroot_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-SC-COA-CCS04-Kilroot1' 1
+'CCS_Moneypoint_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-IGCC-COA-CCS06-MP1' 1
+'CCS_Moneypoint_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-IGCC-COA-CCS06-MP2' 1
+'CCS_Moneypoint_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-SC-COA-CCS04-MP1' 1
+'CCS_Moneypoint_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-SC-COA-CCS04-MP2' 1
+'CCS_Moneypoint_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-ST-COA00-MP1' 1
+'CCS_Moneypoint_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-ST-COA00-MP2' 1
+'CCS_Moneypoint_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-ST-COA00-MP3' 1
+'CCS_Offaly_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-IGCC-PEA-CCS05-Offaly1' 1
+'CCS_Offaly_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-IGCC-PEA-CCS05-Offaly2' 1
+'CCS_Offaly_MaxCap'.'LHS'.'IE'.'2018'.'P-TH-IGCC-PEA-CCS05-Offaly3' 1
+
+/
+PARAMETER
+UC_IRE ' '/
+'CCS_Cork_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Cork_MaxCap-'.'ANNUAL'.'IMP' -1
+'CCS_Cork_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Cork_MaxCap_'.'ANNUAL'.'IMP' 1
+'CCS_Dublin_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Dublin_MaxCap-'.'ANNUAL'.'IMP' -1
+'CCS_Dublin_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Dublin_MaxCap_'.'ANNUAL'.'IMP' 1
+'CCS_Kilroot_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Kilroot_MaxCap-'.'ANNUAL'.'IMP' -1
+'CCS_Kilroot_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Kilroot_MaxCap_'.'ANNUAL'.'IMP' 1
+'CCS_Moneypoint_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Moneypoint_MaxCap-'.'ANNUAL'.'IMP' -1
+'CCS_Moneypoint_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Moneypoint_MaxCap_'.'ANNUAL'.'IMP' 1
+'CCS_Offaly_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Offaly_MaxCap-'.'ANNUAL'.'IMP' -1
+'CCS_Offaly_MaxCap'.'LHS'.'IE'.'2018'.'IMPNRGZ'.'CCS_Offaly_MaxCap_'.'ANNUAL'.'IMP' 1
+
+/
+PARAMETER
+UC_RHSRTS ' '/
+'IE'.'CCS_Cork_MaxCap'.'0'.'ANNUAL'.'UP' 5
+'IE'.'CCS_Cork_MaxCap'.'2050'.'ANNUAL'.'UP' 0.649
+'IE'.'CCS_Dublin_MaxCap'.'0'.'ANNUAL'.'UP' 5
+'IE'.'CCS_Dublin_MaxCap'.'2050'.'ANNUAL'.'UP' 0.649
+'IE'.'CCS_Kilroot_MaxCap'.'0'.'ANNUAL'.'UP' 5
+'IE'.'CCS_Kilroot_MaxCap'.'2050'.'ANNUAL'.'UP' 0.677217391304348
+'IE'.'CCS_Moneypoint_MaxCap'.'0'.'ANNUAL'.'UP' 5
+'IE'.'CCS_Moneypoint_MaxCap'.'2050'.'ANNUAL'.'UP' 0.677217391304348
+'IE'.'CCS_Offaly_MaxCap'.'0'.'ANNUAL'.'UP' 5
+'IE'.'CCS_Offaly_MaxCap'.'2050'.'ANNUAL'.'UP' 0.677217391304348
+
+/
+
+
