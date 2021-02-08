@@ -1,5 +1,35 @@
 [
   {
+    "Description": "Industry Fuel Marginal Cost",
+    "EditedOn": "2021-02-05 23:39",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NGR-FUELS_IND\"]}",
+    "Name": "IND_FuelPrice"
+  },
+  {
+    "Description": "Agriculture Fuel Marginal Cost",
+    "EditedOn": "2021-02-05 23:39",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NGR-FUELS_AGR\"]}",
+    "Name": "AGR_FuelPrice"
+  },
+  {
+    "Description": "Commercial Fuel Marginal Cost",
+    "EditedOn": "2021-02-05 23:39",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NGR-FUELS_COM\"]}",
+    "Name": "COM_FuelPrice"
+  },
+  {
+    "Description": "Transport Fuel Marginal Cost",
+    "EditedOn": "2021-02-05 23:39",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NGR-FUELS_TRA\"]}",
+    "Name": "TRA_FuelPrice"
+  },
+  {
+    "Description": "Residential Fuel Marginal Cost",
+    "EditedOn": "2021-02-05 23:39",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NGR-FUELS_RSD\"]}",
+    "Name": "RSD_FuelPrice"
+  },
+  {
     "Name": "RSD_Demands",
     "Description": "",
     "EditedOn": "2021-02-03 09:46",
@@ -97,25 +127,25 @@
     "Description": "Residential CO2 emissions by energy service",
     "Units": "kt",
     "EditedOn": "2020-12-08 22:31",
-    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"ENV-CO2_RSD\"],\"processset\": [\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-SC\",\"RSD_NRGSRV-SH\",\"RSD_NRGSRV-WH\"]}"
+    "Filter": "{\"attribute\": [\"VAR_FOut\"],\"commodityset\": [\"ENV-CO2_RSD\"],\"processset\": [\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-WS\"]}"
   },
   {
     "Name": "RSD_Services_EnergyCons",
     "Description": "Residential energy consumption by energy service",
     "EditedOn": "2021-01-27 13:01",
-    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-SC\",\"RSD_NRGSRV-SH\",\"RSD_NRGSRV-WH\"],\"commodityset\":[\"NRG\"]}"
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\",\"RSD_NRGSRV-WS\"],\"commodityset\":[\"NRG\"]}"
   },
   {
-    "Name": "RSD_SpaceHeating_FuelCons",
-    "Description": "Residential space heating fuel consumption",
+    "Name": "RSD_WaterSpace_FuelCons",
+    "Description": "Residential hot water, space heating and cooling fuel consumption",
     "EditedOn": "2021-01-27 13:01",
-    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_NRGSRV-SH\"],\"commodityset\":[\"NRG\"]}"
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_NRGSRV-WS\"],\"commodityset\":[\"NRG\"]}"
   },
   {
-    "Name": "RSD_WaterHeating_FuelCons",
-    "Description": "Residential water heating fuel consumption",
+    "Name": "RSD_OtherServices_FuelCons",
+    "Description": "Residential other services fuel consumption",
     "EditedOn": "2021-01-27 13:01",
-    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_NRGSRV-WH\"],\"commodityset\":[\"NRG\"]}"
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\"],\"commodityset\":[\"NRG\"]}"
   },
   {
     "Name": "SUP_BIODST",
@@ -323,12 +353,6 @@
     "Units": "PJ",
     "EditedOn": "2021-01-27 16:36",
     "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-CAF\"],\"commodityset\":[\"NRG\"]}"
-  },
-  {
-    "Name": "Temp_RSD",
-    "Description": "Residential final energy consumption",
-    "EditedOn": "2021-01-27 13:01",
-    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"FT-RSD\"],\"commodityset\":[\"NRG\"]}"
   },
   {
     "Name": "Residential Services",
