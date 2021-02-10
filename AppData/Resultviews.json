@@ -433,6 +433,13 @@
     "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-CAF\"],\"commodityset\":[\"NRG\"]}"
   },
   {
+    "Name": "IND-CON_FEC",
+    "Description": "Industry - Construction - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-CON\"],\"commodityset\":[\"NRG\"]}"
+  },
+  {
     "Name": "Residential Services",
     "Description": "Breakdown of Energy Provided to Services",
     "EditedOn": "2021-01-27 13:01",
