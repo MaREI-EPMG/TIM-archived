@@ -339,7 +339,7 @@
     "Description": "Industry - CO2 Emissions",
     "Units": "kt",
     "EditedOn": "2021-01-27 16:55",
-    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DMD_IND-CAF\",\"DMD_IND-EOE\",\"DMD_IND-FAB\",\"DMD_IND-MAE\",\"DMD_IND-MAP\",\"DMD_IND-NEM\",\"DMD_IND-OMA\",\"DMD_IND-ONM\",\"DMD_IND-PX4\",\"DMD_IND-RAP\",\"DMD_IND-TAP\",\"DMD_IND-TEM\",\"DMD_IND-WAP\"],\"commodityset\":[\"ENV-CO2\"]}"
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DMD_IND-CAF\",\"DMD_IND-EOE\",\"DMD_IND-FAB\",\"DMD_IND-MAE\",\"DMD_IND-MAP\",\"DMD_IND-NEM\",\"DMD_IND-OMA\",\"DMD_IND-ONM\",\"DMD_IND-PX4\",\"DMD_IND-RAP\",\"DMD_IND-TAP\",\"DMD_IND-TEM\",\"DMD_IND-WAP\",\"DMD_IND-CON\"],\"commodityset\":[\"ENV-CO2\"]}"
   },
   {
     "Name": "IND-WAP_FEC",
