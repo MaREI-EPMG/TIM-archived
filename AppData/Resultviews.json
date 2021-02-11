@@ -1,5 +1,83 @@
 [
   {
+    "Description": "New Residential Water Heating Technologies - Fuel Consumption",
+    "EditedOn": "2021-02-08 16:47",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-WH-N-BOILERS\",\"RSD_TECH-WH-N-SOLAR\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_WH-N_FuelCons"
+  },
+  {
+    "Description": "New Residential Water Heating Technologies by Type",
+    "EditedOn": "2021-02-08 16:41",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"RSD_TECH-WH-N-BOILERS\",\"RSD_TECH-WH-N-SOLAR\"]}",
+    "Name": "RSD_WH-N_TYPE"
+  },
+  {
+    "Description": "New Residential Space and Water Heating Technologies - Fuel Consumption",
+    "EditedOn": "2021-02-08 16:47",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-SW-N-BOILERS\",\"RSD_TECH-SW-N-DH\",\"RSD_TECH-SW-N-HP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_SW-N_FuelCons"
+  },
+  {
+    "Description": "New Residential Space and Water Heating Technologies by Type",
+    "EditedOn": "2021-02-08 16:41",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"RSD_TECH-SW-N-BOILERS\",\"RSD_TECH-SW-N-DH\",\"RSD_TECH-SW-N-HP\"]}",
+    "Name": "RSD_SW-N_TYPE"
+  },
+  {
+    "Description": "New Residential Space Cooling Technologies - Fuel Consumption",
+    "EditedOn": "2021-02-08 16:47",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-SC-N-AC\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_SC-N_FuelCons"
+  },
+  {
+    "Description": "New Residential Space Cooling Technologies by Type",
+    "EditedOn": "2021-02-08 16:41",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"RSD_TECH-SC-N-AC\"]}",
+    "Name": "RSD_SC-N_TYPE"
+  },
+  {
+    "Description": "New Residential Space Heating Technologies - Fuel Consumption",
+    "EditedOn": "2021-02-08 16:47",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-SH-N-BOILERS\",\"RSD_TECH-SH-N-HP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_SH-N_FuelCons"
+  },
+  {
+    "Description": "New Residential Space Heating Technologies by Type",
+    "EditedOn": "2021-02-08 16:41",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"RSD_TECH-SH-N-BOILERS\",\"RSD_TECH-SH-N-HP\"]}",
+    "Name": "RSD_SH-N_TYPE"
+  },
+  {
+    "Description": "New Residential Space Heating and Cooling Technologies - Fuel Consumption",
+    "EditedOn": "2021-02-08 16:47",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-HC-N-HP\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_HC-N_FuelCons"
+  },
+  {
+    "Description": "New Residential Space Heating and Cooling Technologies by Type",
+    "EditedOn": "2021-02-08 16:41",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"RSD_TECH-HC-N-HP\"]}",
+    "Name": "RSD_HC-N_TYPE"
+  },
+  {
+    "Description": "Residential Water Heating - Existing - Fuel Consumption",
+    "EditedOn": "2021-02-08 16:31",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-WH-E\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_WH-E_FuelCons"
+  },
+  {
+    "Description": "Residential Space Heating - Existing - Fuel Consumption",
+    "EditedOn": "2021-02-08 16:31",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-SH-E\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_SH-E_FuelCons"
+  },
+  {
+    "Description": "Residential Buildings by Type",
+    "EditedOn": "2021-02-08 16:26",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"DMD_RSD-BLD-APT\",\"DMD_RSD-BLD-ATT\",\"DMD_RSD-BLD-DET\"]}",
+    "Name": "RSD_BLD_TYPE"
+  },
+  {
     "Description": "Industry Fuel Marginal Cost",
     "EditedOn": "2021-02-05 23:39",
     "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NGR-FUELS_IND\"]}",
@@ -261,7 +339,7 @@
     "Description": "Industry - CO2 Emissions",
     "Units": "kt",
     "EditedOn": "2021-01-27 16:55",
-    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DMD_IND-CAF\",\"DMD_IND-EOE\",\"DMD_IND-FAB\",\"DMD_IND-MAE\",\"DMD_IND-MAP\",\"DMD_IND-NEM\",\"DMD_IND-OMA\",\"DMD_IND-ONM\",\"DMD_IND-PX4\",\"DMD_IND-RAP\",\"DMD_IND-TAP\",\"DMD_IND-TEM\",\"DMD_IND-WAP\"],\"commodityset\":[\"ENV-CO2\"]}"
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DMD_IND-CAF\",\"DMD_IND-EOE\",\"DMD_IND-FAB\",\"DMD_IND-MAE\",\"DMD_IND-MAP\",\"DMD_IND-NEM\",\"DMD_IND-OMA\",\"DMD_IND-ONM\",\"DMD_IND-PX4\",\"DMD_IND-RAP\",\"DMD_IND-TAP\",\"DMD_IND-TEM\",\"DMD_IND-WAP\",\"DMD_IND-CON\"],\"commodityset\":[\"ENV-CO2\"]}"
   },
   {
     "Name": "IND-WAP_FEC",
@@ -353,6 +431,13 @@
     "Units": "PJ",
     "EditedOn": "2021-01-27 16:36",
     "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-CAF\"],\"commodityset\":[\"NRG\"]}"
+  },
+  {
+    "Name": "IND-CON_FEC",
+    "Description": "Industry - Construction - FEC",
+    "Units": "PJ",
+    "EditedOn": "2021-01-27 16:36",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_IND-CON\"],\"commodityset\":[\"NRG\"]}"
   },
   {
     "Name": "Residential Services",
