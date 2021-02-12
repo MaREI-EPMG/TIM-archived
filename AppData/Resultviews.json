@@ -288,7 +288,7 @@
     "Name": "TRA_Freight_Land_Mode",
     "Description": "Freight Transport - Land - Mode",
     "EditedOn": "2021-01-27 13:01",
-    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DMD_TRA-F-HTRUCK\",\"DMD_TRA-F-LTRUCK\",\"DMD_TRA-F-TRAIN\"],\"commodityset\":[\"DEM_TRA\"]}"
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DMD_TRA-F-HTRUCK\",\"DMD_TRA-F-LTRUCK\",\"DMD_TRA-F-MTRUCK\",\"DMD_TRA-F-TRAIN\"],\"commodityset\":[\"DEM_TRA\"]}"
   },
   {
     "Name": "TRA_Passenger_Land_Distance",
