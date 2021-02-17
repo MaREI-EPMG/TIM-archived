@@ -1,5 +1,11 @@
 [
   {
+    "Description": "CO2 emissions in DACS",
+    "EditedOn": "2021-02-16 22:08",
+    "Filter": "{\"process\":[\"DACS\"],\"attribute\":[\"VAR_FIn\"]}",
+    "Name": "SYS_DACS"
+  },
+  {
     "Description": "New Residential Water Heating Technologies - Fuel Consumption",
     "EditedOn": "2021-02-08 16:47",
     "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-WH-N-BOILERS\",\"RSD_TECH-WH-N-SOLAR\"],\"commodityset\":[\"NRG\"]}",
