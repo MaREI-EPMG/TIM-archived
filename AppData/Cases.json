@@ -1,9 +1,9 @@
 [
   {
-    "CaseId": 55,
+    "CaseId": 21,
     "CreatedOn": "2021-02-04 21:39",
     "Description": "",
-    "EditedOn": "2021-02-16 22:03",
+    "EditedOn": "2021-02-19 10:29",
     "EndingYear": "2070",
     "FixResultFileName": "False",
     "FixResultInfo": {
@@ -42,20 +42,20 @@
     "ParametricGroupId": null,
     "PeriodsDefinition": "p12",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 84,
+    "PropertiesGroupId": 31,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 83,
+    "RegionGroupId": 30,
     "ScenarioGroup": "Basic",
-    "ScenarioGroupId": 85,
+    "ScenarioGroupId": 32,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
   {
-    "CaseId": 54,
+    "CaseId": 22,
     "CreatedOn": "2020-11-18 23:13",
     "Description": "",
-    "EditedOn": "2021-02-16 22:03",
+    "EditedOn": "2021-02-19 10:33",
     "EndingYear": "2070",
     "FixResultFileName": "False",
     "FixResultInfo": {
@@ -94,17 +94,17 @@
     "ParametricGroupId": null,
     "PeriodsDefinition": "p12",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 84,
+    "PropertiesGroupId": 31,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 83,
+    "RegionGroupId": 30,
     "ScenarioGroup": "Basic2",
-    "ScenarioGroupId": 86,
+    "ScenarioGroupId": 35,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
   {
-    "CaseId": 53,
+    "CaseId": 23,
     "CreatedOn": "2020-11-04 00:38",
     "Description": "",
     "EditedOn": "2020-12-03 17:57",
@@ -146,22 +146,22 @@
     "ParametricGroupId": null,
     "PeriodsDefinition": "p12",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 84,
+    "PropertiesGroupId": 31,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 83,
+    "RegionGroupId": 30,
     "ScenarioGroup": "Basic",
-    "ScenarioGroupId": 85,
+    "ScenarioGroupId": 32,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
   {
-    "CaseId": 57,
+    "CaseId": 24,
     "CreatedOn": "2021-02-16 12:17",
     "Description": "",
-    "EditedOn": "2021-02-17 01:05",
+    "EditedOn": "2021-02-19 10:54",
     "EndingYear": "2070",
-    "FixResultFileName": "False",
+    "FixResultFileName": "True",
     "FixResultInfo": {
       "GdxElasticDermands": {
         "GdxSelectedFile": {
@@ -169,7 +169,7 @@
           "FilePath": "",
           "IsSelected": false
         },
-        "IsApplied": false
+        "IsApplied": true
       },
       "GdxIre": {
         "GdxSelectedFile": {
@@ -177,20 +177,20 @@
           "FilePath": "",
           "IsSelected": false
         },
-        "IsApplied": false,
+        "IsApplied": true,
         "RadioSelection": 1
       },
       "GdxUseSolution": {
-        "FixYearsUpto": "",
+        "FixYearsUpto": "2020",
         "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
+          "FileName": "Test_2018-2070",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\Test_2018-2070\\GamsSave\\Test_2018-2070.gdx",
+          "IsSelected": true
         },
-        "IsApplied": false,
+        "IsApplied": true,
         "RadioSelection": 1
       },
-      "IsApplyFixResult": false
+      "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
     "Name": "Test_CB_2018-2070",
@@ -198,20 +198,20 @@
     "ParametricGroupId": null,
     "PeriodsDefinition": "p12",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 84,
+    "PropertiesGroupId": 31,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 83,
+    "RegionGroupId": 30,
     "ScenarioGroup": "Basic4",
-    "ScenarioGroupId": 87,
+    "ScenarioGroupId": 34,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
   {
-    "CaseId": 56,
+    "CaseId": 25,
     "CreatedOn": "2021-02-15 23:13",
     "Description": "",
-    "EditedOn": "2021-02-16 22:03",
+    "EditedOn": "2021-02-19 10:33",
     "EndingYear": "2070",
     "FixResultFileName": "False",
     "FixResultInfo": {
@@ -250,11 +250,11 @@
     "ParametricGroupId": null,
     "PeriodsDefinition": "p12",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 84,
+    "PropertiesGroupId": 31,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 83,
+    "RegionGroupId": 30,
     "ScenarioGroup": "Basic3",
-    "ScenarioGroupId": 88,
+    "ScenarioGroupId": 33,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
