@@ -1,15 +1,105 @@
 [
   {
+    "Description": "Final energy consumption of electricity by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"ELCD\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-ELCD_Sector"
+  },
+  {
+    "Description": "Final energy consumption of heat by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"HETD\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-HETD_Sector"
+  },
+  {
+    "Description": "Final energy consumption of natural gas by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"GASNAT\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-GASNAT_Sector"
+  },
+  {
+    "Description": "Final energy consumption of kerosene by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"OILKER\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-OILKER_Sector"
+  },
+  {
+    "Description": "Final energy consumption of diesel by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"OILDST\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-OILDST_Sector"
+  },
+  {
+    "Description": "Final energy consumption of gasoline by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"OILGSL\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-OILGSL_Sector"
+  },
+  {
+    "Description": "Final energy consumption of ethanol by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"BIOETH1G\",\"BIOETH2G\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-BIOETH_Sector"
+  },
+  {
+    "Description": "Final energy consumption of biogas by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"BIOGAS1G\",\"BIOGAS2G\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-BIOGAS_Sector"
+  },
+  {
+    "Description": "Final energy consumption of biodiesel by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"BIODST1G\",\"BIODST2G\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-BIODST_Sector"
+  },
+  {
+    "Description": "Final energy consumption of peat by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"PEAT\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-PEAT_Sector"
+  },
+  {
+    "Description": "Final energy consumption of biomass by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"BIOWOO\",\"BIOWOO1\",\"BIOWOO2\",\"BIOWOO3\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-BIOWOOx_Sector"
+  },
+  {
+    "Description": "Final energy consumption of coal by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"COABIT\",\"COAHAR\",\"COALIG\",],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-COA_Sector"
+  },
+  {
+    "Description": "Final energy consumption of hydrogen by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"SUPH2GD\",\"SUPH2LD\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-H2_Sector"
+  },
+  {
+    "Description": "Final energy consumption of HFO by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"OILHFO\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-HFO_Sector"
+  },
+  {
+    "Description": "Final energy consumption of LPG by sector",
+    "EditedOn": "2021-02-22 22:56",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"OILLPG\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC-LPG_Sector"
+  },
+  {
+    "Description": "Power Sector Fuel Marginal Cost",
+    "EditedOn": "2021-02-22 21:29",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NGR-FUELS_PWR\"]}",
+    "Name": "PWR_FuelPrice"
+  },
+  {
     "Description": "Power - CO2 Emissions",
     "EditedOn": "2021-02-22 21:16",
     "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"PWR-BIO\",\"PWR-BIO-CCS\",\"PWR-COA\",\"PWR-COA-CCS\",\"PWR-GAS\",\"PWR-GAS-CCS\",\"PWR-GEO\",\"PWR-H2\",\"PWR-HYD\",\"PWR-MSW\",\"PWR-OCE\",\"PWR-OIL\",\"PWR-PEA\",\"PWR-PEA-CCS\",\"PWR-SOL\",\"PWR-WIN-OF\",\"PWR-WIN-ON\"],\"commodityset\":[\"ENV-CO2\"]}",
     "Name": "PWR_Emissions-CO2"
-  },
-  {
-    "Description": "Power Sector Fuel Marginal Cost",
-    "EditedOn": "2021-02-12 19:29",
-    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NGR-FUELS_PWR\"]}",
-    "Name": "PWR_FuelPrice"
   },
   {
     "Description": "PWR Capacity - New",
@@ -286,12 +376,6 @@
     "EditedOn": "2021-02-19 14:29",
     "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"FT_AGR\"],\"commodityset\":[\"NRG\"]}",
     "Name": "AGR_FEC"
-  },
-  {
-    "Description": "Electricity generation",
-    "EditedOn": "2021-02-19 14:29",
-    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"commodity\":[\"COMELC\",\"ELCC\",\"ELCD\"],\"processset\":[\"ELE-SOL-CSP\",\"ELE-SOL-PV\",\"PWR-BIO\",\"PWR-COA\",\"PWR-GAS\",\"PWR-GAS-CCS\",\"PWR-H2\",\"PWR-HYD\",\"PWR-OCE\",\"PWR-OIL\",\"PWR-WIN-OF\",\"PWR-WIN-ON\"]}",
-    "Name": "ELC_Generation"
   },
   {
     "Description": "Check dummy imports",
