@@ -408,6 +408,12 @@
     "Name": "SUP_BIODST"
   },
   {
+    "Description": "Supply of hydrogen (production)",
+    "EditedOn": "2021-02-26 13:29",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"SUP-H2-Electrolysis\"],\"commodity\":[\"SUPH2GC\",\"SUPH2GD\"]}",
+    "Name": "SUP_HYDROGEN"
+  },
+  {
     "Description": "Residential other services fuel consumption",
     "EditedOn": "2021-02-19 14:29",
     "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_NRGSRV-CD\",\"RSD_NRGSRV-CK\",\"RSD_NRGSRV-CW\",\"RSD_NRGSRV-DW\",\"RSD_NRGSRV-LT\",\"RSD_NRGSRV-OA\",\"RSD_NRGSRV-OE\",\"RSD_NRGSRV-PF\",\"RSD_NRGSRV-RF\"],\"commodityset\":[\"NRG\"]}",
