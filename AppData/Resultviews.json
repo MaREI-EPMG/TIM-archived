@@ -234,10 +234,34 @@
     "Name": "IND_Emissions-CO2"
   },
   {
-    "Description": "Transport - Rest - Fuel Consumption",
+    "Description": "Transport - Domestic Aviation - Fuel Consumption",
     "EditedOn": "2021-02-19 14:29",
-    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_TRA-REST\"],\"commodityset\":[\"NGR-FUELS_TRA\"]}",
-    "Name": "TRA_Rest_FuelCons"
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_TRA-R-AVIDOM\"],\"commodityset\":[\"NGR-FUELS_TRA\"]}",
+    "Name": "TRA_AVIDOM_FuelCons"
+  },
+  {
+    "Description": "Transport - International Aviation - Fuel Consumption",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_TRA-R-AVIINT\"],\"commodityset\":[\"NGR-FUELS_TRA\"]}",
+    "Name": "TRA_AVIINT_FuelCons"
+  },
+  {
+    "Description": "Transport - Unspecified - Fuel Consumption",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_TRA-R-OTH\"],\"commodityset\":[\"NGR-FUELS_TRA\"]}",
+    "Name": "TRA_OTH_FuelCons"
+  },
+  {
+    "Description": "Transport - Navigation - Fuel Consumption",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_TRA-R-NAV\"],\"commodityset\":[\"NGR-FUELS_TRA\"]}",
+    "Name": "TRA_NAV_FuelCons"
+  },
+  {
+    "Description": "Transport - Tourism - Fuel Consumption",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_TRA-R-TURS\"],\"commodityset\":[\"NGR-FUELS_TRA\"]}",
+    "Name": "TRA_TURS_FuelCons"
   },
   {
     "Description": "Passenger Transport - Land - Mode - Short-range",
@@ -286,6 +310,54 @@
     "EditedOn": "2021-02-19 14:29",
     "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_TRA-F-LAND\"],\"commodityset\":[\"NGR-FUELS_TRA\"]}",
     "Name": "TRA_Freight_Land_FuelCons"
+  },
+  {
+    "Description": "Passenger Transport - Private Car Stock by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"DMD_TRA-P-CAR-BEV\",\"DMD_TRA-P-CAR-FCV\",\"DMD_TRA-P-CAR-HEV\",\"DMD_TRA-P-CAR-ICE\",\"DMD_TRA-P-CAR-PHEV\"]}",
+    "Name": "TRA_P-CAR_TYPE"
+  },
+  {
+    "Description": "Passenger Transport - New Private Car Stock by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_NCap\"],\"processset\":[\"DMD_TRA-P-CAR-BEV\",\"DMD_TRA-P-CAR-FCV\",\"DMD_TRA-P-CAR-HEV\",\"DMD_TRA-P-CAR-ICE\",\"DMD_TRA-P-CAR-PHEV\"]}",
+    "Name": "TRA_P-CAR-N_TYPE"
+  },
+  {
+    "Description": "Freight Transport - Light Goods Truck Stock by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"DMD_TRA-F-LTRUCK-BEV\",\"DMD_TRA-F-LTRUCK-FCV\",\"DMD_TRA-F-LTRUCK-HEV\",\"DMD_TRA-F-LTRUCK-ICE\",\"DMD_TRA-F-LTRUCK-PHEV\"]}",
+    "Name": "TRA_F-LTRUCK_TYPE"
+  },
+  {
+    "Description": "Freight Transport - New Light Goods Truck Stock by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_NCap\"],\"processset\":[\"DMD_TRA-F-LTRUCK-BEV\",\"DMD_TRA-F-LTRUCK-FCV\",\"DMD_TRA-F-LTRUCK-HEV\",\"DMD_TRA-F-LTRUCK-ICE\",\"DMD_TRA-F-LTRUCK-PHEV\"]}",
+    "Name": "TRA_F-LTRUCK-N_TYPE"
+  },
+  {
+    "Description": "Freight Transport - Medium Goods Truck Stock by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"DMD_TRA-F-MTRUCK-BEV\",\"DMD_TRA-F-MTRUCK-FCV\",\"DMD_TRA-F-MTRUCK-HEV\",\"DMD_TRA-F-MTRUCK-ICE\"]}",
+    "Name": "TRA_F-MTRUCK_TYPE"
+  },
+  {
+    "Description": "Freight Transport - New Medium Goods Truck Stock by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_NCap\"],\"processset\":[\"DMD_TRA-F-MTRUCK-BEV\",\"DMD_TRA-F-MTRUCK-FCV\",\"DMD_TRA-F-MTRUCK-HEV\",\"DMD_TRA-F-MTRUCK-ICE\"]}",
+    "Name": "TRA_F-MTRUCK-N_TYPE"
+  },
+  {
+    "Description": "Freight Transport - Heavy Goods Truck Stock by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"DMD_TRA-F-HTRUCK-BEV\",\"DMD_TRA-F-HTRUCK-FCV\",\"DMD_TRA-F-HTRUCK-HEV\",\"DMD_TRA-F-HTRUCK-ICE\"]}",
+    "Name": "TRA_F-HTRUCK_TYPE"
+  },
+  {
+    "Description": "Freight Transport - New Heavy Goods Truck Stock by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_NCap\"],\"processset\":[\"DMD_TRA-F-HTRUCK-BEV\",\"DMD_TRA-F-HTRUCK-FCV\",\"DMD_TRA-F-HTRUCK-HEV\",\"DMD_TRA-F-HTRUCK-ICE\"]}",
+    "Name": "TRA_F-HTRUCK-N_TYPE"
   },
   {
     "Description": "SysCost",
@@ -408,12 +480,6 @@
     "Name": "RSD_SankeyFlow"
   },
   {
-    "Description": "",
-    "EditedOn": "2021-02-19 14:29",
-    "Filter": "{\"scenario\":[\"Test2070\"],\"commodity\":[\"RSDCD\",\"RSDCK\",\"RSDCW\",\"RSDDW\",\"RSDLT_Apt\",\"RSDLT_Att\",\"RSDLT_Det\",\"RSDOA\",\"RSDOE\",\"RSDPF_Apt\",\"RSDPF_Att\",\"RSDPF_Det\",\"RSDRF\",\"RSDSC_Apt\",\"RSDSC_Att\",\"RSDSC_Det\",\"RSDSH_Apt\",\"RSDSH_Att\",\"RSDSH_Det\",\"RSDWH_Apt\",\"RSDWH_Att\",\"RSDWH_Det\"]}",
-    "Name": "RSD_Demands"
-  },
-  {
     "Description": "Residential Fuel Marginal Cost",
     "EditedOn": "2021-02-19 14:29",
     "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NGR-FUELS_RSD\"]}",
@@ -448,6 +514,48 @@
     "EditedOn": "2021-02-19 14:29",
     "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"DMD_RSD-BLD-APT\",\"DMD_RSD-BLD-ATT\",\"DMD_RSD-BLD-DET\"]}",
     "Name": "RSD_BLD_TYPE"
+  },
+  {
+    "Description": "New Residential Buildings by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_NCap\"],\"processset\":[\"DMD_RSD-BLD-APT\",\"DMD_RSD-BLD-ATT\",\"DMD_RSD-BLD-DET\"]}",
+    "Name": "RSD_BLD-N_TYPE"
+  },
+  {
+    "Description": "Residential Space Heating - Apartments - Fuel Consumption",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-SH-APT\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_SH-APT_FuelCons"
+  },
+  {
+    "Description": "Residential Space Heating - Attached - Fuel Consumption",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-SH-ATT\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_SH-ATT_FuelCons"
+  },
+  {
+    "Description": "Residential Space Heating - Detached - Fuel Consumption",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-SH-DET\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "RSD_SH-DET_FuelCons"
+  },
+  {
+    "Description": "New Residential Space Heating - Apartments - Capacity",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_NCap\"],\"processset\":[\"RSD_TECH-SH-APT\"]}",
+    "Name": "RSD_SH-APT_NCAP"
+  },
+  {
+    "Description": "New Residential Space Heating - Attached - Capacity",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_NCap\"],\"processset\":[\"RSD_TECH-SH-ATT\"]}",
+    "Name": "RSD_SH-ATT_NCAP"
+  },
+  {
+    "Description": "New Residential Space Heating - Detached - Capacity",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_NCap\"],\"processset\":[\"RSD_TECH-SH-DET\"]}",
+    "Name": "RSD_SH-DET_NCAP"
   },
   {
     "Description": "Residential Space Heating - Existing - Fuel Consumption",
@@ -520,6 +628,12 @@
     "EditedOn": "2021-02-19 14:29",
     "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"RSD_TECH-WH-N-BOILERS\",\"RSD_TECH-WH-N-SOLAR\"],\"commodityset\":[\"NRG\"]}",
     "Name": "RSD_WH-N_FuelCons"
+  },
+  {
+    "Description": "Residential Cooking Technologies by Type",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"RSD_NRGSRV-CK\"]}",
+    "Name": "RSD_CK_TYPE"
   },
   {
     "Description": "CO2 emissions in DACS",
