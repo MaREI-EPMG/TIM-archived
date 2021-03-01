@@ -234,6 +234,12 @@
     "Name": "IND_Emissions-CO2"
   },
   {
+    "Description": "Transport - CO2 Emissions",
+    "EditedOn": "2021-03-01 15:29",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DMD_TRA-P-LAND\",\"DMD_TRA-F-LAND\",\"DMD_TRA-R-AVIDOM\",\"DMD_TRA-R-AVIINT\",\"DMD_TRA-F-LAND\",\"DMD_TRA-R-OTH\",\"DMD_TRA-R-NAV\",\"DMD_TRA-R-TURS\"],\"commodityset\":[\"ENV-CO2\"]}",
+    "Name": "TRA_Emissions-CO2"
+  },
+  {
     "Description": "Transport - Domestic Aviation - Fuel Consumption",
     "EditedOn": "2021-02-19 14:29",
     "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_TRA-R-AVIDOM\"],\"commodityset\":[\"NGR-FUELS_TRA\"]}",
