@@ -377,6 +377,12 @@
     "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
     "Name": "SYS_FEC_Sector"
   },
+    {
+    "Description": "Final energy consumption by fuel",
+    "EditedOn": "2021-02-19 14:29",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"FT_AGR\",\"FT_COM\",\"FT_IND\",\"FT_RSD\",\"FT_TRA\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "SYS_FEC_Fuel"
+  },
   {
     "Description": "N2O emissions by sector",
     "EditedOn": "2021-02-19 14:29",
