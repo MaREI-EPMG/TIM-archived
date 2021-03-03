@@ -1,5 +1,11 @@
 [
   {
+    "Description": "Agriculture - Production of primary biomass",
+    "EditedOn": "2021-03-03 11:07",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"AGR-BIO\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "AGR_NRG-BIO-PRIME"
+  },
+  {
     "Description": "Mining of energy commodities",
     "EditedOn": "2021-02-23 01:07",
     "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"IRE-MIN\"],\"commodityset\":[\"NRG\"]}",
