@@ -4,9 +4,10 @@
 ### Original developers of the TIMES-Ireland Model
 * Vahid Aryanpur (TRA)
 * Olexander Balyk (overall model coordination, SER, IND)
-* Hannah Daly (project management)
+* Alessandro Chiodi
+* Hannah Daly (co-PI, CAPACITY project)
 * Ankita Gaur (energy service demands) 
-* James Glynn (project management, PWR, SUP)
+* James Glynn (lead CHIMERA project, PWR, SUP)
 * Jason McGuire (RES)
 * Xiufeng Yue (PWR)
 
