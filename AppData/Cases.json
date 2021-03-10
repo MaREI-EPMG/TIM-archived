@@ -260,58 +260,6 @@
     "UserName": "olex"
   },
   {
-    "CaseId": 145,
-    "CreatedOn": "2021-03-09 21:18",
-    "Description": "",
-    "EditedOn": "2021-03-09 21:25",
-    "EndingYear": "2070",
-    "FixResultFileName": "True",
-    "FixResultInfo": {
-      "GdxElasticDermands": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true
-      },
-      "GdxIre": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "GdxUseSolution": {
-        "FixYearsUpto": "2020",
-        "GdxSelectedFile": {
-          "FileName": "No_Mitigation",
-          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
-          "IsSelected": true
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "IsApplyFixResult": true
-    },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "No_Mitigation_EVP",
-    "ParametricGroup": null,
-    "ParametricGroupId": null,
-    "PeriodsDefinition": "p12",
-    "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
-    "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
-    "ScenarioGroup": "NoMitigationEVP",
-    "ScenarioGroupId": 207,
-    "Solver": "CPLEX",
-    "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
-  },
-  {
     "CaseId": 123,
     "CreatedOn": "2021-03-04 15:03",
     "Description": "",
