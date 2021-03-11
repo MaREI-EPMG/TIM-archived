@@ -7,7 +7,7 @@
 * Alessandro Chiodi (SRV, AGR)
 * Hannah Daly (co-PI, CAPACITY project)
 * Ankita Gaur (energy service demands) 
-* James Glynn (Lead CHIMERA project, PWR, SUP)
+* James Glynn (Lead CHIMERA project, co-PI CAPACITY project, PWR-RES, TRA-RES, SUP-RES, Code Conventions, TIMES Development Workshops, DATAHUB, Debug Support)
 * Jason McGuire (RSD)
 * Xiufeng Yue (PWR)
 
