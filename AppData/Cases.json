@@ -1,61 +1,9 @@
 [
   {
-    "CaseId": 129,
-    "CreatedOn": "2021-03-04 15:19",
-    "Description": "",
-    "EditedOn": "2021-03-09 21:25",
-    "EndingYear": "2070",
-    "FixResultFileName": "True",
-    "FixResultInfo": {
-      "GdxElasticDermands": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true
-      },
-      "GdxIre": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "GdxUseSolution": {
-        "FixYearsUpto": "2020",
-        "GdxSelectedFile": {
-          "FileName": "No_Mitigation",
-          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
-          "IsSelected": true
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "IsApplyFixResult": true
-    },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_NetZero2050_ZWI",
-    "ParametricGroup": null,
-    "ParametricGroupId": null,
-    "PeriodsDefinition": "p12",
-    "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
-    "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
-    "ScenarioGroup": "MitigationNetZero2050ZWI",
-    "ScenarioGroupId": 187,
-    "Solver": "CPLEX",
-    "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
-  },
-  {
-    "CaseId": 118,
+    "CaseId": 141,
     "CreatedOn": "2021-03-04 15:18",
     "Description": "",
-    "EditedOn": "2021-03-09 21:25",
+    "EditedOn": "2021-03-10 21:44",
     "EndingYear": "2070",
     "FixResultFileName": "True",
     "FixResultInfo": {
@@ -89,25 +37,25 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_NetZero2050_Tougher_ZWI",
+    "Name": "Mitigation_CAP2021-NAAM",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p12",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
+    "PropertiesGroupId": 192,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
-    "ScenarioGroup": "MitigationNetZero2050TougherZWI",
-    "ScenarioGroupId": 189,
+    "RegionGroupId": 191,
+    "ScenarioGroup": "MitigationCAP2021NAAM",
+    "ScenarioGroupId": 212,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
   {
-    "CaseId": 121,
-    "CreatedOn": "2021-03-04 15:04",
+    "CaseId": 143,
+    "CreatedOn": "2021-03-04 15:19",
     "Description": "",
-    "EditedOn": "2021-03-09 21:25",
+    "EditedOn": "2021-03-10 21:44",
     "EndingYear": "2070",
     "FixResultFileName": "True",
     "FixResultInfo": {
@@ -141,25 +89,25 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_NetZero2050_Toughest",
+    "Name": "Mitigation_CAP2021",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p12",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
+    "PropertiesGroupId": 192,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
-    "ScenarioGroup": "MitigationNetZero2050Toughest",
-    "ScenarioGroupId": 184,
+    "RegionGroupId": 191,
+    "ScenarioGroup": "MitigationCAP2021",
+    "ScenarioGroupId": 209,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
   {
-    "CaseId": 119,
+    "CaseId": 133,
     "CreatedOn": "2021-03-09 12:05",
     "Description": "",
-    "EditedOn": "2021-03-09 21:25",
+    "EditedOn": "2021-03-10 21:44",
     "EndingYear": "2070",
     "FixResultFileName": "True",
     "FixResultInfo": {
@@ -193,25 +141,77 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_NetZero2050_LED_Toughest_ZWI",
+    "Name": "Mitigation_CAP2021-LED",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p12",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
+    "PropertiesGroupId": 192,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
-    "ScenarioGroup": "MitigationLEDNetZero2050ToughestZWI",
-    "ScenarioGroupId": 180,
+    "RegionGroupId": 191,
+    "ScenarioGroup": "MitigationCAP2021LED",
+    "ScenarioGroupId": 210,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
   {
-    "CaseId": 130,
+    "CaseId": 132,
+    "CreatedOn": "2021-03-04 15:18",
+    "Description": "",
+    "EditedOn": "2021-03-10 21:44",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES",
+    "Name": "Mitigation_CAP2021-LAAM",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p12",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 192,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 191,
+    "ScenarioGroup": "MitigationCAP2021LAAM",
+    "ScenarioGroupId": 211,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "olex"
+  },
+  {
+    "CaseId": 144,
     "CreatedOn": "2021-03-02 13:00",
     "Description": "",
-    "EditedOn": "2021-03-09 21:18",
+    "EditedOn": "2021-03-10 21:38",
     "EndingYear": "2070",
     "FixResultFileName": "False",
     "FixResultInfo": {
@@ -250,219 +250,11 @@
     "ParametricGroupId": null,
     "PeriodsDefinition": "p12",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
+    "PropertiesGroupId": 192,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
+    "RegionGroupId": 191,
     "ScenarioGroup": "NoMitigation",
-    "ScenarioGroupId": 181,
-    "Solver": "CPLEX",
-    "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
-  },
-  {
-    "CaseId": 123,
-    "CreatedOn": "2021-03-04 15:03",
-    "Description": "",
-    "EditedOn": "2021-03-09 21:25",
-    "EndingYear": "2070",
-    "FixResultFileName": "True",
-    "FixResultInfo": {
-      "GdxElasticDermands": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true
-      },
-      "GdxIre": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "GdxUseSolution": {
-        "FixYearsUpto": "2020",
-        "GdxSelectedFile": {
-          "FileName": "No_Mitigation",
-          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
-          "IsSelected": true
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "IsApplyFixResult": true
-    },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_NetZero2050_Tougher",
-    "ParametricGroup": null,
-    "ParametricGroupId": null,
-    "PeriodsDefinition": "p12",
-    "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
-    "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
-    "ScenarioGroup": "MitigationNetZero2050Tougher",
-    "ScenarioGroupId": 186,
-    "Solver": "CPLEX",
-    "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
-  },
-  {
-    "CaseId": 125,
-    "CreatedOn": "2021-03-03 22:35",
-    "Description": "",
-    "EditedOn": "2021-03-09 21:25",
-    "EndingYear": "2070",
-    "FixResultFileName": "True",
-    "FixResultInfo": {
-      "GdxElasticDermands": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true
-      },
-      "GdxIre": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "GdxUseSolution": {
-        "FixYearsUpto": "2020",
-        "GdxSelectedFile": {
-          "FileName": "No_Mitigation",
-          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
-          "IsSelected": true
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "IsApplyFixResult": true
-    },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_NetZero2050",
-    "ParametricGroup": null,
-    "ParametricGroupId": null,
-    "PeriodsDefinition": "p12",
-    "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
-    "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
-    "ScenarioGroup": "MitigationNetZero2050",
-    "ScenarioGroupId": 188,
-    "Solver": "CPLEX",
-    "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
-  },
-  {
-    "CaseId": 122,
-    "CreatedOn": "2021-03-09 12:10",
-    "Description": "",
-    "EditedOn": "2021-03-09 21:25",
-    "EndingYear": "2070",
-    "FixResultFileName": "True",
-    "FixResultInfo": {
-      "GdxElasticDermands": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true
-      },
-      "GdxIre": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "GdxUseSolution": {
-        "FixYearsUpto": "2020",
-        "GdxSelectedFile": {
-          "FileName": "No_Mitigation",
-          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
-          "IsSelected": true
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "IsApplyFixResult": true
-    },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_NetZero2050_LED_Toughest",
-    "ParametricGroup": null,
-    "ParametricGroupId": null,
-    "PeriodsDefinition": "p12",
-    "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
-    "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
-    "ScenarioGroup": "MitigationLEDNetZero2050Toughest",
-    "ScenarioGroupId": 179,
-    "Solver": "CPLEX",
-    "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
-  },
-  {
-    "CaseId": 127,
-    "CreatedOn": "2021-03-04 15:18",
-    "Description": "",
-    "EditedOn": "2021-03-09 21:25",
-    "EndingYear": "2070",
-    "FixResultFileName": "True",
-    "FixResultInfo": {
-      "GdxElasticDermands": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true
-      },
-      "GdxIre": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "GdxUseSolution": {
-        "FixYearsUpto": "2020",
-        "GdxSelectedFile": {
-          "FileName": "No_Mitigation",
-          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
-          "IsSelected": true
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "IsApplyFixResult": true
-    },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_NetZero2050_Toughest_ZWI",
-    "ParametricGroup": null,
-    "ParametricGroupId": null,
-    "PeriodsDefinition": "p12",
-    "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 175,
-    "RegionGroup": "AllRegion",
-    "RegionGroupId": 174,
-    "ScenarioGroup": "MitigationNetZero2050ToughestZWI",
-    "ScenarioGroupId": 182,
+    "ScenarioGroupId": 197,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
