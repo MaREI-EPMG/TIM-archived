@@ -15,6 +15,9 @@
 ## Contributing developers
 * Paul Deane
 * Maurizio Gargiulo
+* Brian O'Gallachoir
+* Fionn Rogan
+* Andrew Smith
 
 ## Specific Contributions
 
