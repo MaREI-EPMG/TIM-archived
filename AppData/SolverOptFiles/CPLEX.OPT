@@ -3,8 +3,8 @@ rerun yes
 iis yes
 lpmethod 4
 baralg 1
-barcrossalg 0
+barcrossalg 2
 barorder 3
-THREADS=7
+THREADS=-2
 advind=0
 names no
