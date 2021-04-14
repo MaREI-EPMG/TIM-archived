@@ -1,3 +1,7 @@
+Settings.json
+*Details.json
+ResultsFormSettings.json
+*.opt
 *.mdb
 *.ldb
 *.log
