@@ -12,9 +12,9 @@
     "Name": "SYS_NRG-Export_SEAI_2"
   },
   {
-    "Description": "Services final energy consumption by service",
+    "Description": "Services final energy consumption by data centres",
     "EditedOn": "2021-04-01 14:40",
-    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_SRV-XXX_DC\"],\"commodityset\":[\"NRG\"]}",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_SRV-CS_DC\"],\"commodityset\":[\"NRG\"]}",
     "Name": "SRV_FEC_DCs"
   },
   {
@@ -128,25 +128,25 @@
   {
     "Description": "Services final energy consumption by service",
     "EditedOn": "2021-04-01 14:40",
-    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_SRV-COM_WS\",\"DMD_SRV-PUB_WS\",\"DMD_SRV-XXX_COK\",\"DMD_SRV-XXX_LIG\",\"DMD_SRV-XXX_OEL\",\"DMD_SRV-XXX_PIG\",\"DMD_SRV-XXX_REF\",\"DMD_SRV-XXX_DC\"],\"commodityset\":[\"NRG\"]}",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"SRV-CS_NRGSRV-WS\",\"SRV-PU_NRGSRV-WS\",\"SRV-CS_NRGSRV-CK\",\"SRV-PU_NRGSRV-CK\",\"SRV-CS_NRGSRV-LIG\",\"SRV-PU_NRGSRV-LIG\",\"SRV-CS_NRGSRV-OEL\",\"SRV-PU_NRGSRV-OEL\",\"SRV-CS_NRGSRV-REF\",\"SRV-PU_NRGSRV-REF\",\"DMD_SRV-CS_DC\",\"DMD_SRV-PU_PLIG\"],\"commodityset\":[\"NRG\"]}",
     "Name": "SRV_FEC_Service"
   },
   {
     "Description": "Services final energy consumption for cooking",
     "EditedOn": "2021-04-01 14:40",
-    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_SRV-XXX_COK\"],\"commodityset\":[\"NRG\"]}",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"SRV-CS_NRGSRV-CK\",\"SRV-PU_NRGSRV-CK\"],\"commodityset\":[\"NRG\"]}",
     "Name": "SRV_FEC_COK"
   },
   {
     "Description": "Services - public - final energy consumption for water heating and space heating and cooling",
     "EditedOn": "2021-04-01 14:40",
-    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_SRV-PUB_WS\"],\"commodityset\":[\"NRG\"]}",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"SRV-PU_NRGSRV-WS\"],\"commodityset\":[\"NRG\"]}",
     "Name": "SRV-PUB_FEC_WS"
   },
   {
     "Description": "Services - commercial - final energy consumption for water heating and space heating and cooling",
     "EditedOn": "2021-04-01 14:40",
-    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"DMD_SRV-COM_WS\"],\"commodityset\":[\"NRG\"]}",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"SRV-CS_NRGSRV-WS\"],\"commodityset\":[\"NRG\"]}",
     "Name": "SRV-COM_FEC_WS"
   },
   {
