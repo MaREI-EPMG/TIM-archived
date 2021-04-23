@@ -3,7 +3,7 @@
     "CaseId": 9,
     "CreatedOn": "2021-03-02 13:00",
     "Description": "",
-    "EditedOn": "2021-04-23 12:15",
+    "EditedOn": "2021-04-23 22:25",
     "EndingYear": "2070",
     "FixResultFileName": "False",
     "FixResultInfo": {
@@ -313,59 +313,6 @@
     "RegionGroupId": 16,
     "ScenarioGroup": "MitigationCAP2021LAM-noBECCS",
     "ScenarioGroupId": 46,
-    "Solver": "CPLEX",
-    "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
-  },
-  {
-    "CaseId": 15,
-    "CreatedOn": "2021-04-13 10:08",
-    "Description": "",
-    "EditedOn": "2021-04-23 13:49",
-    "EndingYear": "2070",
-    "FixResultFileName": "True",
-    "FixResultInfo": {
-      "WorkTimesFolderPath": "",
-      "GdxElasticDermands": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true
-      },
-      "GdxIre": {
-        "GdxSelectedFile": {
-          "FileName": "",
-          "FilePath": "",
-          "IsSelected": false
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "GdxUseSolution": {
-        "FixYearsUpto": "2020",
-        "GdxSelectedFile": {
-          "FileName": "No_Mitigation",
-          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
-          "IsSelected": true
-        },
-        "IsApplied": true,
-        "RadioSelection": 1
-      },
-      "IsApplyFixResult": true
-    },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-LAM-Free",
-    "ParametricGroup": null,
-    "ParametricGroupId": null,
-    "PeriodsDefinition": "p22",
-    "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 17,
-    "RegionGroup": "AllRegion",
-    "RegionGroupId": 16,
-    "ScenarioGroup": "MitigationCAP2021LAM-Free",
-    "ScenarioGroupId": 45,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
