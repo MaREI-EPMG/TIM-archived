@@ -52,7 +52,7 @@
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
-    {
+  {
     "CaseId": 531,
     "CreatedOn": "2021-03-04 15:18",
     "Description": "",
@@ -250,7 +250,7 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-A25E65-ea",
+    "Name": "Mitigation_CAP21-A25E65-EA",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p39",
@@ -258,13 +258,13 @@
     "PropertiesGroupId": 332,
     "RegionGroup": "AllRegion",
     "RegionGroupId": 331,
-    "ScenarioGroup": "MitigationCAP2021A25E65-ea",
+    "ScenarioGroup": "MitigationCAP2021A25E65-EA",
     "ScenarioGroupId": 442,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
-    {
+  {
     "CaseId": 532,
     "CreatedOn": "2021-03-04 15:18",
     "Description": "",
@@ -303,7 +303,7 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-A33E61-ea",
+    "Name": "Mitigation_CAP21-A33E61-EA",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p39",
@@ -311,7 +311,7 @@
     "PropertiesGroupId": 332,
     "RegionGroup": "AllRegion",
     "RegionGroupId": 331,
-    "ScenarioGroup": "MitigationCAP2021A33E61-ea",
+    "ScenarioGroup": "MitigationCAP2021A33E61-EA",
     "ScenarioGroupId": 432,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
@@ -356,7 +356,7 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-A40E57-ea",
+    "Name": "Mitigation_CAP21-A40E57-EA",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p39",
@@ -364,7 +364,7 @@
     "PropertiesGroupId": 332,
     "RegionGroup": "AllRegion",
     "RegionGroupId": 331,
-    "ScenarioGroup": "MitigationCAP2021A40E57-ea",
+    "ScenarioGroup": "MitigationCAP2021A40E57-EA",
     "ScenarioGroupId": 422,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
@@ -409,7 +409,7 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-A51E51-ea",
+    "Name": "Mitigation_CAP21-A51E51-EA",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p39",
@@ -417,7 +417,7 @@
     "PropertiesGroupId": 332,
     "RegionGroup": "AllRegion",
     "RegionGroupId": 331,
-    "ScenarioGroup": "MitigationCAP2021A51E51-ea",
+    "ScenarioGroup": "MitigationCAP2021A51E51-EA",
     "ScenarioGroupId": 412,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
@@ -462,7 +462,7 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-A25E65-nc",
+    "Name": "Mitigation_CAP21-A25E65-LA",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p39",
@@ -470,13 +470,13 @@
     "PropertiesGroupId": 332,
     "RegionGroup": "AllRegion",
     "RegionGroupId": 331,
-    "ScenarioGroup": "MitigationCAP2021A25E65-nc",
+    "ScenarioGroup": "MitigationCAP2021A25E65-LA",
     "ScenarioGroupId": 443,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
   },
-    {
+  {
     "CaseId": 533,
     "CreatedOn": "2021-03-04 15:18",
     "Description": "",
@@ -515,7 +515,7 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-A33E61-nc",
+    "Name": "Mitigation_CAP21-A33E61-LA",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p39",
@@ -523,7 +523,7 @@
     "PropertiesGroupId": 332,
     "RegionGroup": "AllRegion",
     "RegionGroupId": 331,
-    "ScenarioGroup": "MitigationCAP2021A33E61-nc",
+    "ScenarioGroup": "MitigationCAP2021A33E61-LA",
     "ScenarioGroupId": 433,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
@@ -568,7 +568,7 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-A40E57-nc",
+    "Name": "Mitigation_CAP21-A40E57-LA",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p39",
@@ -576,7 +576,7 @@
     "PropertiesGroupId": 332,
     "RegionGroup": "AllRegion",
     "RegionGroupId": 331,
-    "ScenarioGroup": "MitigationCAP2021A40E57-nc",
+    "ScenarioGroup": "MitigationCAP2021A40E57-LA",
     "ScenarioGroupId": 423,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
@@ -621,7 +621,7 @@
       "IsApplyFixResult": true
     },
     "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-A51E51-nc",
+    "Name": "Mitigation_CAP21-A51E51-LA",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p39",
@@ -629,7 +629,7 @@
     "PropertiesGroupId": 332,
     "RegionGroup": "AllRegion",
     "RegionGroupId": 331,
-    "ScenarioGroup": "MitigationCAP2021A51E51-nc",
+    "ScenarioGroup": "MitigationCAP2021A51E51-LA",
     "ScenarioGroupId": 413,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
@@ -740,5 +740,5 @@
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
     "UserName": "olex"
-  },
+  }
 ]
