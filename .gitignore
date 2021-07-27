@@ -10,3 +10,4 @@ ResultsFormSettings.json
 *.xlk
 !Databases/UserOptions.*
 !veda_snt.mdb
+.Rproj.user
