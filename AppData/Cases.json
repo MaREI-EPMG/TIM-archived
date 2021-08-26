@@ -1,9 +1,62 @@
 [
   {
-    "CaseId": 60,
+    "CaseId": 101,
+    "CreatedOn": "2021-04-23 10:40",
+    "Description": "",
+    "EditedOn": "2021-06-02 23:52",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "Mitigation_CAP21-NAM",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 133,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "MitigationCAP2021NAM",
+    "ScenarioGroupId": 141,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 93,
     "CreatedOn": "2021-03-02 13:00",
     "Description": "",
-    "EditedOn": "2021-04-27 13:54",
+    "EditedOn": "2021-06-03 12:14",
     "EndingYear": "2070",
     "FixResultFileName": "False",
     "FixResultInfo": {
@@ -37,26 +90,26 @@
       },
       "IsApplyFixResult": false
     },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
     "Name": "No_Mitigation",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p22",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 102,
+    "PropertiesGroupId": 133,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 101,
+    "RegionGroupId": 132,
     "ScenarioGroup": "NoMitigation",
-    "ScenarioGroupId": 109,
+    "ScenarioGroupId": 151,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
+    "UserName": "vahid"
   },
   {
-    "CaseId": 61,
-    "CreatedOn": "2021-03-04 15:18",
+    "CaseId": 99,
+    "CreatedOn": "2021-06-04 18:29",
     "Description": "",
-    "EditedOn": "2021-04-27 14:11",
+    "EditedOn": "2021-06-08 09:33",
     "EndingYear": "2070",
     "FixResultFileName": "True",
     "FixResultInfo": {
@@ -90,26 +143,291 @@
       },
       "IsApplyFixResult": true
     },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-2-EAM-BAU-BOS1",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 133,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-2-EAM-BAU-BOS1",
+    "ScenarioGroupId": 135,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 106,
+    "CreatedOn": "2021-08-13 00:09",
+    "Description": "",
+    "EditedOn": "2021-08-13 01:08",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-7-EAM-BAU-Modal-Shift-TAX-BOS-OR",
+    "ParametricGroup": "TRA_Occupancy",
+    "ParametricGroupId": 140,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "LCOE",
+    "PropertiesGroupId": 138,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-1-EAM-BAU-Modal-Shift-Tax-BOS-OR",
+    "ScenarioGroupId": 157,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 105,
+    "CreatedOn": "2021-06-04 18:29",
+    "Description": "",
+    "EditedOn": "2021-06-08 10:05",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-3-EAM-BAU-BOS2",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 133,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-3-EAM-BAU-BOS2",
+    "ScenarioGroupId": 134,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 85,
+    "CreatedOn": "2021-08-02 00:14",
+    "Description": "",
+    "EditedOn": "2021-08-02 02:15",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-7-EAM-BAU-CTAX",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "LCOE",
+    "PropertiesGroupId": 138,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-7-EAM-BAU-C.TAX",
+    "ScenarioGroupId": 149,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 97,
+    "CreatedOn": "2021-06-04 18:31",
+    "Description": "",
+    "EditedOn": "2021-06-08 11:22",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-4--EAM-BAU-Occupancy-Rate",
+    "ParametricGroup": "TRA_Occupancy",
+    "ParametricGroupId": 140,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 133,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-EAM-BAU",
+    "ScenarioGroupId": 148,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 95,
+    "CreatedOn": "2021-03-04 15:18",
+    "Description": "",
+    "EditedOn": "2021-06-02 23:53",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
     "Name": "Mitigation_CAP21-LAM",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p22",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 102,
+    "PropertiesGroupId": 133,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 101,
+    "RegionGroupId": 132,
     "ScenarioGroup": "MitigationCAP2021LAM",
-    "ScenarioGroupId": 111,
+    "ScenarioGroupId": 143,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
+    "UserName": "vahid"
   },
   {
-    "CaseId": 62,
-    "CreatedOn": "2021-04-08 15:35",
+    "CaseId": 98,
+    "CreatedOn": "2021-08-11 18:06",
     "Description": "",
-    "EditedOn": "2021-04-27 14:11",
+    "EditedOn": "2021-08-11 18:38",
     "EndingYear": "2070",
     "FixResultFileName": "True",
     "FixResultInfo": {
@@ -143,26 +461,26 @@
       },
       "IsApplyFixResult": true
     },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_WAM",
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-7-EAM-BAU-Modal-Shift-TAX-BOS",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p22",
-    "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 102,
+    "PropertiesGroup": "LCOE",
+    "PropertiesGroupId": 138,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 101,
-    "ScenarioGroup": "MitigationWAM",
-    "ScenarioGroupId": 110,
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-1-EAM-BAU-Modal-Shift-Tax-BOS",
+    "ScenarioGroupId": 153,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
+    "UserName": "vahid"
   },
   {
-    "CaseId": 63,
-    "CreatedOn": "2021-03-04 15:18",
+    "CaseId": 92,
+    "CreatedOn": "2021-06-04 18:18",
     "Description": "",
-    "EditedOn": "2021-04-27 14:11",
+    "EditedOn": "2021-08-02 02:15",
     "EndingYear": "2070",
     "FixResultFileName": "True",
     "FixResultInfo": {
@@ -196,26 +514,79 @@
       },
       "IsApplyFixResult": true
     },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-EAM-BAU",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "LCOE",
+    "PropertiesGroupId": 138,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-EAM-BAU",
+    "ScenarioGroupId": 148,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 87,
+    "CreatedOn": "2021-03-04 15:18",
+    "Description": "",
+    "EditedOn": "2021-06-02 23:50",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
     "Name": "Mitigation_CAP21-EAM",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p22",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 102,
+    "PropertiesGroupId": 133,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 101,
+    "RegionGroupId": 132,
     "ScenarioGroup": "MitigationCAP2021EAM",
-    "ScenarioGroupId": 103,
+    "ScenarioGroupId": 147,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
+    "UserName": "vahid"
   },
   {
-    "CaseId": 64,
-    "CreatedOn": "2021-03-09 12:05",
+    "CaseId": 104,
+    "CreatedOn": "2021-06-04 18:33",
     "Description": "",
-    "EditedOn": "2021-04-27 14:11",
+    "EditedOn": "2021-06-10 01:04",
     "EndingYear": "2070",
     "FixResultFileName": "True",
     "FixResultInfo": {
@@ -249,26 +620,26 @@
       },
       "IsApplyFixResult": true
     },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-LAM-LED",
-    "ParametricGroup": null,
-    "ParametricGroupId": null,
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-5-EAM-BAU-Incentives",
+    "ParametricGroup": "EV_Incentive_Removal",
+    "ParametricGroupId": 146,
     "PeriodsDefinition": "p22",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 102,
+    "PropertiesGroupId": 133,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 101,
-    "ScenarioGroup": "MitigationCAP2021LAM-LED",
-    "ScenarioGroupId": 106,
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-EAM-BAU",
+    "ScenarioGroupId": 148,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
+    "UserName": "vahid"
   },
   {
-    "CaseId": 65,
-    "CreatedOn": "2021-03-30 23:48",
+    "CaseId": 96,
+    "CreatedOn": "2021-08-12 18:54",
     "Description": "",
-    "EditedOn": "2021-04-27 14:11",
+    "EditedOn": "2021-08-12 20:22",
     "EndingYear": "2070",
     "FixResultFileName": "True",
     "FixResultInfo": {
@@ -302,26 +673,26 @@
       },
       "IsApplyFixResult": true
     },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-LAM-noBECCS",
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-7-EAM-BAU-TAX-BOS",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p22",
-    "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 102,
+    "PropertiesGroup": "LCOE",
+    "PropertiesGroupId": 138,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 101,
-    "ScenarioGroup": "MitigationCAP2021LAM-noBECCS",
-    "ScenarioGroupId": 108,
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-2-EAM-BAU-BOS1-Tax",
+    "ScenarioGroupId": 155,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
+    "UserName": "vahid"
   },
   {
-    "CaseId": 66,
-    "CreatedOn": "2021-04-23 10:40",
+    "CaseId": 100,
+    "CreatedOn": "2021-08-12 18:54",
     "Description": "",
-    "EditedOn": "2021-04-27 14:11",
+    "EditedOn": "2021-08-12 20:22",
     "EndingYear": "2070",
     "FixResultFileName": "True",
     "FixResultInfo": {
@@ -355,19 +726,178 @@
       },
       "IsApplyFixResult": true
     },
-    "GAMSSourceFolder": "GAMS_SrcTIMES",
-    "Name": "Mitigation_CAP21-NAM",
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-7-EAM-BAU-TAX-Modal",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "LCOE",
+    "PropertiesGroupId": 138,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-1-EAM-BAU-Modal-Shift-Tax",
+    "ScenarioGroupId": 154,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 111,
+    "CreatedOn": "2021-08-12 18:55",
+    "Description": "",
+    "EditedOn": "2021-08-12 20:22",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-7-EAM-BAU-Modal-BOS",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "LCOE",
+    "PropertiesGroupId": 138,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-2-EAM-BAU-BOS1-Modal",
+    "ScenarioGroupId": 156,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 88,
+    "CreatedOn": "2021-04-08 15:35",
+    "Description": "",
+    "EditedOn": "2021-06-02 23:51",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "Mitigation_WAM",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "p22",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 102,
+    "PropertiesGroupId": 133,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 101,
-    "ScenarioGroup": "MitigationCAP2021NAM",
-    "ScenarioGroupId": 105,
+    "RegionGroupId": 132,
+    "ScenarioGroup": "MitigationWAM",
+    "ScenarioGroupId": 161,
     "Solver": "CPLEX",
     "SolverOptionFile": "CPLEX",
-    "UserName": "olex"
+    "UserName": "vahid"
+  },
+  {
+    "CaseId": 110,
+    "CreatedOn": "2021-06-04 18:25",
+    "Description": "",
+    "EditedOn": "2021-06-08 08:58",
+    "EndingYear": "2070",
+    "FixResultFileName": "True",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": "",
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "2020",
+        "GdxSelectedFile": {
+          "FileName": "No_Mitigation",
+          "FilePath": "C:\\VEDA\\GAMS_WrkTIMES\\No_Mitigation\\GamsSave\\No_Mitigation.gdx",
+          "IsSelected": true
+        },
+        "IsApplied": true,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": true
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.5.3",
+    "Name": "1-1-EAM-BAU-Modal",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "p22",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 133,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 132,
+    "ScenarioGroup": "1-1-EAM-BAU-Modal-Shift",
+    "ScenarioGroupId": 159,
+    "Solver": "CPLEX",
+    "SolverOptionFile": "CPLEX",
+    "UserName": "vahid"
   }
 ]
