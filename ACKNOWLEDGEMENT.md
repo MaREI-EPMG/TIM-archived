@@ -25,12 +25,13 @@
 * Industry sector (O.B., M.G., A.G.)
 * Power sector (X.Y., J.G., O.B.)
 * Service sector (A.C., A.G., O.B.)
-* Residential sector (J.M., A.C., O.B.)
+* Residential sector (J.M., A.C., M.G., O.B.)
 * Supply sector (J.G., O.B., A.S.)
-* Transport sector (V.A.)
-* Demand projections (A.G.)
+* Transport sector (V.A., J.G.)
+* Demand projections (A.G., H.D.)
 * Model integration (O.B.)
 * Scenario definition (H.D.)
+* Project lead (H.D.)
 
 ## Reviewers
 The following individuals contributed  comments during an [early review phase](https://tim-review1.netlify.app/about): Andrew Kelly (Envecon), Sarah Ní Ruairc (DECC), Joseph Cummings (D. Enterprise), Gerard McGuinness (D. Finance), Padraig Daly (Eirgrid), Ilkka Keppo (Aalto University), John Curtis (ESRI), Gerry Duggin (Engineers Ireland), John Fitzgerald (TCD), Luke O'Callahan White (IIEA), Tadhg O'Mahony (UTU), Sarah Stanley and Joe Wheatley (UCD). 
