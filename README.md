@@ -15,7 +15,7 @@ Alternatively, TIM can be used to assess the implications of certain policies, n
 More information on the TIMES model generator and specific information about TIM can be found in the [Documentation](https://tim-carbon-budgets-2021.netlify.app/documentation).
 
 ## About the developers
-The list of developers, contributors and reviewers is described in the [Acknowledgements](/acknowledgements) section. 
+The list of developers, contributors and reviewers is described in the [Acknowledgements](/ACKNOWLEDGEMENT.md) section. 
 
 TIM is the successor model to the Irish TIMES Model, which has been developed by the MaREI Energy Policy and Modelling Group (EPMG) at University College Cork since 2010 and funded through various projects by the EPA, SEAI, SFI and the NTR Foundation, and has played a significant role in informing the evidence base of Irish climate target setting.
 
