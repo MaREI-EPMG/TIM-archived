@@ -40,3 +40,5 @@ V.A., X.Y. and J.G. within the CHIMERA Project are supported by a research grant
 
 O.B. and J.M. are supported by the [CAPACITY](https://www.marei.ie/project/capacity/) project funded by the Department of Communications, Climate Action and Environment.
 
+## Model provenance
+TIM is the successor model to the Irish TIMES Model, which has been developed by the Energy Policy and Modelling Group (EPMG) at University College Cork since 2010 and funded through various projects by the EPA, SEAI, SFI and the NTR Foundation, has played a [significant role](https://www.epa.ie/researchandeducation/research/researchpublications/researchreports/research326.html) in informing the evidence base of Irish climate target setting.
