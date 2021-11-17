@@ -17,7 +17,7 @@ More information on the TIMES model generator and specific information about TIM
 ## About the developers
 The list of developers, contributors and reviewers is described in the [Acknowledgements](/acknowledgements) section. 
 
-TIM is the successor model to the Irish TIMES Model, which has been developed by the MaREI Energy Policy and Modelling Group (EPMG) at University College Cork since 2010 and funded through various projects by the EPA, SEAI, SFI and the NTR Foundation, abd has played a significant role in informing the evidence base of Irish climate target setting.
+TIM is the successor model to the Irish TIMES Model, which has been developed by the MaREI Energy Policy and Modelling Group (EPMG) at University College Cork since 2010 and funded through various projects by the EPA, SEAI, SFI and the NTR Foundation, and has played a significant role in informing the evidence base of Irish climate target setting.
 
 ## Climate policy use
 This model has been built to better inform increased national climate mitigation ambition: Ireland now has one of the most ambitious near-term decarbonisation targets in the world, with a new carbon budget process to underpin action. The new model also take into account the changing energy technology landscape, and of new advances in energy systems optimisation modelling techniques.
