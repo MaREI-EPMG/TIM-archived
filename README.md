@@ -24,7 +24,7 @@ This model has been built to better inform increased national climate mitigation
 
 The first set of scenarios developed with TIM have explored the implications of alternative climate mitigation, technology and demand pathways. This analysis formed a significant part of [the evidence base](https://www.climatecouncil.ie/carbonbudgets/technicalreport/) used by the Irish Climate Change Advisory Council to develop the first set of carbon budget recommendations. 
 - Zenodo repositary of scenarios: https://zenodo.org/record/5517363
-- Webapp visualising results from a selection of scenarios: https://tim-carbon-budgets-2021.netlify.app/results/
+- Web app visualising results from a selection of scenarios: https://tim-carbon-budgets-2021.netlify.app/results/
 
 
 ## Branch information
