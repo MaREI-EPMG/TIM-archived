@@ -33,6 +33,7 @@
 * Scenario definition (H.D.)
 
 ## Reviewers
+The following individuals contributed  comments during an [early review phase](https://tim-review1.netlify.app/about): Andrew Kelly (Envecon), Sarah Ní Ruairc (DECC), Joseph Cummings (D. Enterprise), Gerard McGuinness (D. Finance), Padraig Daly (Eirgrid), Ilkka Keppo (Aalto University), John Curtis (ESRI), Gerry Duggin (Engineers Ireland), John Fitzgerald (TCD), Luke O'Callahan White (IIEA), Tadhg O'Mahony (UTU), Sarah Stanley and Joe Wheatley (UCD). 
 
 ## Funding
 V.A., X.Y. and J.G. within the CHIMERA Project are supported by a research grant from Science Foundation Ireland (SFI) and the National Natural Science Foundation of China (NSFC) under the SFI-NSFC Partnership Programme, [Grant no. 17/NSFC/5181] and this work was supported by MaREI, the SFI Research Centre for Energy, Climate, and Marine [Grant No: 12/RC/2302_P2]. https://www.marei.ie/project/chimera/
